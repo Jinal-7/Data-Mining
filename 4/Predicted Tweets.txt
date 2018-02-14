@@ -1,0 +1,6001 @@
+Sentiment: 1 means positive class; 0 means negative class
+Sentiment: 0
+Text:is so sad for my APL friend.............
+
+Sentiment: 0
+Text:I missed the New Moon trailer...
+
+Sentiment: 0
+Text:omg its already 7:30 :O
+
+Sentiment: 0
+Text:.. Omgaga. Im sooo  im gunna CRy. I've been at this dentist since 11.. I was suposed 2 just get a crown put on (30mins)...
+
+Sentiment: 0
+Text:i think mi bf is cheating on me!!!       T_T
+
+Sentiment: 0
+Text:or i just worry too much?
+
+Sentiment: 0
+Text:Juuuuuuuuuuuuuuuuussssst Chillin!!
+
+Sentiment: 0
+Text:Sunny Again        Work Tomorrow  :-|       TV Tonight
+
+Sentiment: 0
+Text:handed in my uniform today . i miss you already
+
+Sentiment: 0
+Text:hmmmm.... i wonder how she my number @-)
+
+Sentiment: 0
+Text:I must think about positive..
+
+Sentiment: 0
+Text:thanks to all the haters up in my face all day! 112-102
+
+Sentiment: 0
+Text:this weekend has sucked so far
+
+Sentiment: 0
+Text:jb isnt showing in australia any more!
+
+Sentiment: 0
+Text:ok thats it you win.
+
+Sentiment: 0
+Text:&lt;-------- This is the way i feel right now...
+
+Sentiment: 0
+Text:"    awhhe man.... I'm completely useless rt now. Funny
+
+Sentiment: 0
+Text:Feeling strangely fine. Now I'm gonna go listen to some Semisonic to celebrate
+
+Sentiment: 0
+Text:HUGE roll of thunder just now...SO scary!!!!
+
+Sentiment: 1
+Text:I just cut my beard off. It's only been growing for well over a year. I'm gonna start it over. @shaunamanu is happy in the meantime.
+
+Sentiment: 0
+Text:Very sad about Iran.
+
+Sentiment: 0
+Text:wompppp wompp
+
+Sentiment: 0
+Text:You're the only one who can see this cause no one else is following me this is for you because you're pretty awesome
+
+Sentiment: 0
+Text:&lt;---Sad level is 3. I was writing a massive blog tweet on Myspace and my comp shut down. Now it's all lost *lays in fetal position*
+
+Sentiment: 0
+Text:...  Headed to Hospitol : Had to pull out of the Golf Tourny in 3rd place!!!!!!!!!!! I Think I Re-Ripped something !!! Yeah THAT !!
+
+Sentiment: 0
+Text:BoRinG   ): whats wrong with him??     Please tell me........   :-/
+
+Sentiment: 0
+Text:can't be bothered. i wish i could spend the rest of my life just sat here and going to gigs. seriously.
+
+Sentiment: 0
+Text:"   Feeeling like shit right now. I really want to sleep
+
+Sentiment: 0
+Text:"   goodbye exams
+
+Sentiment: 0
+Text:I didn't realize it was THAT deep. Geez give a girl a warning atleast!
+
+Sentiment: 0
+Text:I hate it when any athlete appears to tear an ACL on live television.
+
+Sentiment: 0
+Text:i miss you guys too     i think i'm wearing skinny jeans a cute sweater and heels   not really sure   what are you doing today
+
+Sentiment: 0
+Text:-- Meet your Meat http://bit.ly/15SSCI
+
+Sentiment: 0
+Text:My horsie is moving on Saturday morning.
+
+Sentiment: 0
+Text:No Sat off...Need to work 6 days a week
+
+Sentiment: 0
+Text:Really Dont Like Doing my Room Its So Boring  Sick Of Doing My Wardrobe Out Cant Waiit Till I Have My Walk In One  Yay
+
+Sentiment: 0
+Text:"   SOX!     Floyd was great
+
+Sentiment: 0
+Text:times by like a million
+
+Sentiment: 0
+Text:uploading pictures on friendster
+
+Sentiment: 0
+Text:what type of a spaz downloads a virus? my brother that's who :\ MSN is now fucked forever    :'(
+
+Sentiment: 0
+Text:&amp;&amp;Fightiin Wiit The Babes...
+
+Sentiment: 0
+Text:(: !!!!!! - so i wrote something last week. and i got a call from someone in the new york office... http://tumblr.com/xcn21w6o7
+
+Sentiment: 0
+Text:*enough said*
+
+Sentiment: 0
+Text:"  ... Do I need to even say it?  Do I?  Well
+
+Sentiment: 0
+Text:... health class (what a joke!)
+
+Sentiment: 0
+Text:@ginaaa &lt;3 GO TO THE SHOW TONIGHT
+
+Sentiment: 0
+Text:@Spiral_galaxy @YMPtweet  it really makes me sad when i look at Muslims reality now
+
+Sentiment: 0
+Text:- All Time Low shall be my motivation for the rest of the week.
+
+Sentiment: 0
+Text:"  and the entertainment is over
+
+Sentiment: 0
+Text:another year of Lakers .. That's neither magic nor fun ...
+
+Sentiment: 0
+Text:baddest day eveer.
+
+Sentiment: 0
+Text:bathroom is clean..... now on to more enjoyable tasks......
+
+Sentiment: 0
+Text:boom boom pow
+
+Sentiment: 0
+Text:but i'm proud.
+
+Sentiment: 0
+Text:congrats to helio though
+
+Sentiment: 0
+Text:David must be hospitalized for five days end of July (palatine tonsils). I will probably never see Katie in concert.
+
+Sentiment: 1
+Text:friends are leaving me 'cause of this stupid love  http://bit.ly/ZoxZC
+
+Sentiment: 0
+Text:go give ur mom a hug right now. http://bit.ly/azFwv
+
+Sentiment: 0
+Text:Going To See Harry Sunday Happiness
+
+Sentiment: 0
+Text:Hand quilting it is then...
+
+Sentiment: 0
+Text:hate u ...  leysh t9ar5 ... =((((((( ..
+
+Sentiment: 0
+Text:-  I always get what I want
+
+Sentiment: 0
+Text:I bend backwards
+
+Sentiment: 0
+Text:i get off work sooooon! i miss cody booo. haven't seen him in foreverr!
+
+Sentiment: 0
+Text:I hate allergies. Should I get my hair cut tomorrow? I'm taking a public poll...
+
+Sentiment: 1
+Text:- I love you guys so much that it hurts. http://tumblr.com/xkh1z19us
+
+Sentiment: 0
+Text:I miss Earl
+
+Sentiment: 0
+Text:I miss New Jersey
+
+Sentiment: 0
+Text:"  I missed the first hour of SYTYCD last night
+
+Sentiment: 0
+Text:I need a U2 fix NOW!
+
+Sentiment: 0
+Text:I never thought I'd become second choice...
+
+Sentiment: 0
+Text:I think I may be too friendly...lol... o well...
+
+Sentiment: 0
+Text:I think Manuel (my Basil plant) only has days to live
+
+Sentiment: 0
+Text:I wanna be at home @ church...I wonder wht they are doing?
+
+Sentiment: 0
+Text:i wanna make my own pizza
+
+Sentiment: 0
+Text:"  i want a 120gb harddrive
+
+Sentiment: 0
+Text:i want a hug
+
+Sentiment: 0
+Text:I want Miley to tour Australia
+
+Sentiment: 0
+Text:I wanted to sleep in this morning but a mean kid through a popsicle stick at me head. I wish I could fly away like those squirrels
+
+Sentiment: 0
+Text:i was too slow to get $1 Up tix
+
+Sentiment: 0
+Text:"  I will send sunshine to Northern Ireland
+
+Sentiment: 0
+Text:I wish I could go to T4 On The Beach :'(    Would be great to see @Shontelle_Layne &amp; @DanMerriweather
+
+Sentiment: 0
+Text:"  i would be so much happier if the walls of my bedroom were painted white
+
+Sentiment: 1
+Text:idk wat 2 do who can i trust me im sorry 4 all da pain i have caused nebody ima take dis time out 2 straighten myself out i luv yall
+
+Sentiment: 0
+Text:I'm finding the intercept slope..and banging my head against the wall..Math brain heads come save me
+
+Sentiment: 0
+Text:I'm really going to bed now...
+
+Sentiment: 0
+Text:im sick  'cough cough'
+
+Sentiment: 0
+Text:in cab headed to the airport!  going home.... &lt;christy&gt;
+
+Sentiment: 0
+Text:In case I feel emo in camp (feeling a wee bit of it alr)...am bringing in the Human Rights Watch World Report 2009..hope it'll work
+
+Sentiment: 0
+Text:Jin has a twitter.
+
+Sentiment: 0
+Text:jonas day is almost over...
+
+Sentiment: 0
+Text:Jus Got Hom Fr. TDa Funeral... I'm So Sad! I Cried So Much Times! Much Love Grandpa!&lt;3 I Never Got To Say My Last &quot;Goodbye&quot; to Him.
+
+Sentiment: 0
+Text:just gonna smile...cuz it is what it is..and im not sure what more they could want..
+
+Sentiment: 0
+Text:"  Just got home
+
+Sentiment: 0
+Text:- Longest night ever.. ugh! http://tumblr.com/xwp1yxhi6
+
+Sentiment: 0
+Text:mi momacita won't let me go to my bf's bball game!!! grrr!!!
+
+Sentiment: 0
+Text:Mom says I have to get a new phone IMMEDIATELY....off to T-Mobile.  she paying....
+
+Sentiment: 0
+Text:My new car was stolen....by my mother who wanted to go pose at church.
+
+Sentiment: 0
+Text:"  no hang out with the girls 2day. 2moro
+
+Sentiment: 0
+Text:no movie times for sunday!  Rats will have to plan tomorrow. I guess this means I have to work on those two  presentations I am doing!
+
+Sentiment: 0
+Text:no pavel tonight &lt;Tigersfan &gt;
+
+Sentiment: 0
+Text:not a cool night.
+
+Sentiment: 0
+Text:oh thank you!
+
+Sentiment: 0
+Text:pleased
+
+Sentiment: 0
+Text:probably guna get off soon since no one is talkin no more
+
+Sentiment: 0
+Text:really wanted Safina to pull out a win &amp; to lose like that...
+
+Sentiment: 0
+Text:"  RIP
+
+Sentiment: 0
+Text:Rose and ood will be back in the Xmas Who special!  YAY!  Damn that's half a year away.
+
+Sentiment: 0
+Text:- sannesias: Aww no neighbor! We need to watch Mean Girls :] http://tumblr.com/xv31s2pi8
+
+Sentiment: 0
+Text:so whats the status on next weekend
+
+Sentiment: 0
+Text:sorry @gigi4462 The Ex Husband has overdosed on his daily dose of haterade
+
+Sentiment: 0
+Text:Thanks for your definition of throwbie!  Editors reviewed your entry and have decided to not publish it.
+
+Sentiment: 0
+Text:"  Thanks
+
+Sentiment: 0
+Text:- that explains alot.
+
+Sentiment: 0
+Text:There's going to be a Heathers sequel.  Winona4ever!  They better not fuck it up.
+
+Sentiment: 0
+Text:"  told not to drink w/my Rx so just gave all the b.b. porter &amp; obs. stout that I brought home from OR to my neighbors.  v
+
+Sentiment: 0
+Text:trae is so sweet! He just bought me a new baithing suit!! Wove him
+
+Sentiment: 0
+Text:"  True
+
+Sentiment: 0
+Text:u guys knw whyy
+
+Sentiment: 0
+Text:very much so
+
+Sentiment: 0
+Text:waahhh now I'm getting sad....miss hub :-'(&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;
+
+Sentiment: 0
+Text:--  we were standing out in the pouring rain.. We were sitting on top of the world..  --   summer sucks      --
+
+Sentiment: 0
+Text:"  Went to get dog from vets
+
+Sentiment: 0
+Text:where is my picture i feel naked
+
+Sentiment: 0
+Text:Why aren't there any trains going to manchester on a sunday?!!  Now I can't go to the @jonasbrothers concert.
+
+Sentiment: 0
+Text:- Why must people be so picky. I mean 6 hours work and no dice!? whatï¿½s up with that! http://tumblr.com/xsg1m3ufn
+
+Sentiment: 0
+Text:Why Twitter will soon become obsolete? http://www.imediaconnection.com/content/23465.asp
+
+Sentiment: 0
+Text:wide awake   NOT!!!
+
+Sentiment: 0
+Text:yeah me too. Its been awful weather here for the last week so that stinks. Kristis comin down and moe said mmmaybe he take us for  ...
+
+Sentiment: 0
+Text:- You: hi Stranger: HELLO I AM FRANK LAMPARD HOW ARE YOU You: fine You: and urself Stranger: i am gay Your... http://tumblr.com/xaj24dkly
+
+Sentiment: 0
+Text:you'll always be my one and only...  [12*23*2007]
+
+Sentiment: 0
+Text:#3turnoffwords this shit sucks
+
+Sentiment: 0
+Text:#asylm J2 panel is over. Guess it's back to normal life.
+
+Sentiment: 0
+Text:#poemsunder140 ....started by @shannonelyse1
+
+Sentiment: 0
+Text:#squarespace brighten my bad day! i never win anything...
+
+Sentiment: 0
+Text:" #Susan Boyle didnt win! mh well
+
+Sentiment: 0
+Text:#twenty20
+
+Sentiment: 0
+Text:" &lt;--- That is all
+
+Sentiment: 0
+Text:&lt;3 goooood timessss
+
+Sentiment: 0
+Text:&lt;3 GrAdUaTE 09&lt;3
+
+Sentiment: 0
+Text:" &quot; Vandals paint swastikas on home of author of gay
+
+Sentiment: 0
+Text:&quot;An unknown error occured (-4)&quot;. uh oh. iPhone OS 3 fail so far
+
+Sentiment: 0
+Text:&quot;experts (homers) predict Eagles to go 12-4 and Giants to go 9-7/ BS! http://www.dailysportspages.com/forums/showthread.php?t=49343
+
+Sentiment: 0
+Text:&quot;I know you hungry so lets go outside on the balcony so you can eat&quot;....
+
+Sentiment: 0
+Text:&quot;I want you so bad it's driving me  mad&quot;
+
+Sentiment: 0
+Text:&quot;The 10 Men a UK Female Internet Entrepreneur Should Know when Starting and Growing a Business : The Next Women&quot; ( http://tinyurl.com ...
+
+Sentiment: 0
+Text:&quot;The truth is hiding in your eyes&quot; @patita @MissMarian  Paramore ï¿½ Decode @Daninho502  ? http://blip.fm/~5ytke
+
+Sentiment: 0
+Text:&quot;Try to turn on my tv to get you out of my head. I've got this feeling inside that I just won't admit...&quot; (that is literally how I feel)
+
+Sentiment: 0
+Text:" &quot;well
+
+Sentiment: 0
+Text:(tears) :'-( Today is the last day with my kids...They go on summer break at their Dads tomorrow. *sighs* http://plurk.com/p/x8j86
+
+Sentiment: 0
+Text:(unsure) (annoyed) http://plurk.com/p/1230lz
+
+Sentiment: 0
+Text:(via @designrelated) are designed gallery exhibition postcards/mailers going extinct? via NYT http://ow.ly/fHJc
+
+Sentiment: 0
+Text:*BeautifulyLost
+
+Sentiment: 0
+Text:- *cries* I'm going to miss Harry Potter when it comes out.  I'm leaving to Vietnam on July 11th.  I'm going to cry!!
+
+Sentiment: 0
+Text:-- *hummin* I SAY &quot;shut up &amp; put your money where your mouth is&quot; ...headin' out to reality. Cheers Twitter world!
+
+Sentiment: 1
+Text:-- . *sigh* You cant love someone that doesn't love you back that's like stalker status . GET a divorce &amp;&amp; move on . Trinity.
+
+Sentiment: 0
+Text:" . . . . going back to bed
+
+Sentiment: 0
+Text:"-- . Aiqht Goodniqht . Tri
+
+Sentiment: 0
+Text:-- . Triiiiiii .  ily . even if Chaise doesn't . =D *dies of laughter*
+
+Sentiment: 0
+Text:.. i wantt hiim soo badd !!
+
+Sentiment: 0
+Text:" .. watching tv
+
+Sentiment: 0
+Text:... had weird encounters with so many homeless/creeps on the walk home tonight all by myself   awesome... really...
+
+Sentiment: 0
+Text:... Rained out truck race
+
+Sentiment: 0
+Text:... Why am I feeling worse??? F!!!
+
+Sentiment: 0
+Text:.... Feeling pain and happiness at the same time. How confusing!
+
+Sentiment: 0
+Text:..... hot choco is the best!
+
+Sentiment: 0
+Text:....in a shirt and panties. celulite
+
+Sentiment: 0
+Text:..had to turn back to North due to body on line. So missing Design Council Design 4 Tech Transfer event   http://bit.ly/pXrzV...
+
+Sentiment: 0
+Text:..y everything is so hard? :/
+
+Sentiment: 1
+Text:.bueno good bye. good night
+
+Sentiment: 0
+Text:: Beach day with Scoobs. =( : Still no phone.
+
+Sentiment: 0
+Text:" : Let's have fun
+
+Sentiment: 0
+Text::[ I don't want to move!!!
+
+Sentiment: 0
+Text:" :-D ))))))))...WHAT AN AMAZING NIGHT
+
+Sentiment: 0
+Text:@ canaveral national  seashore
+
+Sentiment: 0
+Text:@ progressing in the production department with &quot;The Uprizing&quot; thats the priority getting the head nodding beats and then we reach out
+
+Sentiment: 1
+Text:@ taylorrhicks enjoy chicago..b new venue is always cool. You shine everywhere you go. I know who you are. In time so will everyone.
+
+Sentiment: 0
+Text:@ the train crash in DC .....
+
+Sentiment: 0
+Text:' @ Thestreetforce  '
+
+Sentiment: 0
+Text:@3sixty5days makes me smile.
+
+Sentiment: 0
+Text:" @adamisacson My first day off in 3 weeks
+
+Sentiment: 0
+Text:" @adbert: &quot;#Video [Woody Woodpecker â€“ The Barber of Seville] I am great
+
+Sentiment: 1
+Text:@alexrauchman I am happy you are staying around here. Drexel is a fabulous university. You should be proud. yeah.
+
+Sentiment: 0
+Text:@alvinkschneider what happened to angels and demons and lions and tigers and bears!?
+
+Sentiment: 0
+Text:@AmericanWomannn Well that sure minimizes the impact...LOL
+
+Sentiment: 0
+Text:" @ange_black @sween I call dibs on the Voltron arm. No the leg. Wait. Where are my manners? @baileygenine
+
+Sentiment: 0
+Text:@CharlottegC I just saw ur mum
+
+Sentiment: 0
+Text:@chloelunn and @meganmcdowell GET YOUR FAT ASSES ON HERE. NAI.
+
+Sentiment: 0
+Text:"- @codinghorror See
+
+Sentiment: 0
+Text:@copicmarker&quot; facebook.com/copic.marker if you're cool. Or if you're not cool. Maybe I'll send some cool .. http://tr.im/oyT7
+
+Sentiment: 0
+Text:' @crewislife  you want to start the morning later; in New York we can do that  (Californians have it even better)
+
+Sentiment: 0
+Text:@cybervenus http://twitpic.com/75kwb ~ LOL LuV IT! &gt;&gt; http://twitpic.com/75hsg Did any1 find or c 1? #a.. http://bit.ly/mUMFh
+
+Sentiment: 0
+Text:@dandelionas is making fettucini and garlic bread!
+
+Sentiment: 0
+Text:@danregal  tell @pfont i said Happy BDay!!
+
+Sentiment: 0
+Text:"- @Darcy_Lussier @lkrammes I went to work once last year with no pants. Ironically
+
+Sentiment: 0
+Text:" @DirtyRose17  told you
+
+Sentiment: 0
+Text:@dreamingspires. there r many gr8 science cartoons http://bit.ly/6EW4Q http://bit.ly/gXH3q http://bit.ly/18sjXI http://bit.ly/KEAy2
+
+Sentiment: 0
+Text:- @Em91 Edinburgh fringe is only 10 weeks away?! I need monies  Btw I'm Elliott from @angryfeet - blame @howlieT for the Twitter intrusion
+
+Sentiment: 0
+Text:" @emilymariie why didnt you come to school?? have you done the short stack thing by yourself
+
+Sentiment: 0
+Text:"- @EvertB which one? http://bit.ly/10o8LW
+
+Sentiment: 0
+Text:@georgediaz #Magic ..thinking less than 50 % chance Hedo stays in Orlando. He's gonna go for the $$. They all do. Can't blame him though.
+
+Sentiment: 0
+Text:@Glamicole ..now who wud make this beautiful plc cry?
+
+Sentiment: 0
+Text:@HaterMagazine: @damienrandle it is now the outer fat kid.
+
+Sentiment: 0
+Text:"- @haugern The servers are now backup
+
+Sentiment: 0
+Text:" @hawaiibuzz: &quot;yes
+
+Sentiment: 0
+Text:" @hellopnsdear se MORREA a mi Joseph
+
+Sentiment: 0
+Text:@hidingesther @linininiooh are my future rooooooooomies! NYC holleR
+
+Sentiment: 0
+Text:@Hijack_King7 I hope u have cheeSe burgerS 4 @Snubbmatic LMBO
+
+Sentiment: 0
+Text:@iamyas awesome
+
+Sentiment: 0
+Text:@ivegotzooms I am nothing of the kind and everything of the sort http://tr.im/mLsn
+
+Sentiment: 0
+Text:- @jerrybattiste &quot;..pick up some flowers for the teacher..&quot; I'm jealous! I want flowers without having to be in the hospital to get them!
+
+Sentiment: 0
+Text:- @joaoqalves Think again   Talvez seja do Ãªnfase na cifra. Mas atenÃ§Ã£o: &quot;Security is a chain; it's as strong as the weakest link â€¦
+
+Sentiment: 0
+Text:@jonasbrothers Why is your YouTube account suspended? lol Single Ladies dance? I NEED TO WATCH IT AGAIN!
+
+Sentiment: 0
+Text:- @JuicyJones I know.. SOLD OUT though.
+
+Sentiment: 0
+Text:- @kaitymarine - watch E3 @MCMudkips - Will do
+
+Sentiment: 0
+Text:- @katherineholden Thanks K! Here's hoping! Pretty nervous though...
+
+Sentiment: 0
+Text:@katiedontcry should get on aim and talk to me. i miss her.
+
+Sentiment: 0
+Text:@kcome ?????????????????????????????????? ????????????1000 Followers???????????? http://tr.im/mWKn
+
+Sentiment: 0
+Text:" @khead I'll tell ya
+
+Sentiment: 0
+Text:@kvetchingeditor's kashrut convo makes me want to keep more kosher but my roomies catholic &amp; he has a pork loin in the fridge #kosherFAIL
+
+Sentiment: 0
+Text:@Leloz isn't home neither is @sozi1 ... @althani96 U BETTER HAVE IT!!!
+
+Sentiment: 0
+Text:" @LHSOPERAFIENDS yall bitches better wake up early to go to the LA Opera
+
+Sentiment: 0
+Text:"- @littlecharva - I'm immune to dentists' drills etc now
+
+Sentiment: 0
+Text:@lolife4life where r u tonite im still awake!
+
+Sentiment: 0
+Text:@lorinimus hates Bebot App
+
+Sentiment: 0
+Text:" @masareus&quot; @dhempe congrats bhai
+
+Sentiment: 0
+Text:@MelodyChase
+
+Sentiment: 1
+Text:@mgph3nom chilling on twitter via my spanking new blackberry w/ unlimited internet : http://tr.im/mZVC
+
+Sentiment: 1
+Text:@michaelsarver so do you give him every inch of your love every night?
+
+Sentiment: 0
+Text:@mimbles @WParenthetical
+
+Sentiment: 0
+Text:' @minghao Maybe you can pop @StarHubCares a tweet. They are quite active on twitter.
+
+Sentiment: 0
+Text:" @MsNovember It's a shame all the women in Mamma Mia are so horny
+
+Sentiment: 0
+Text:- @nibaq Thanks for letting me know. I'm going to check out Eureka later with this knowledge
+
+Sentiment: 0
+Text:@Oneshine What are u referring to?
+
+Sentiment: 0
+Text:@plmusic22
+
+Sentiment: 0
+Text:"- @PoisonGirl10 What's up? @sevgli Hey you!  @lowridergrl I'm doing ok
+
+Sentiment: 0
+Text:@RAPPUBLICIST HAPPY MOTHERS DAY!
+
+Sentiment: 0
+Text:"- @raybooysen I knew Sharepoint was written by interns
+
+Sentiment: 0
+Text:I miss her so much already...
+
+Sentiment: 0
+Text:just practising.....how I feel
+
+Sentiment: 1
+Text:Miss my love Jamie
+
+Sentiment: 0
+Text:FUCK YOU!
+
+Sentiment: 0
+Text:my head feels like a bowling ball
+
+Sentiment: 0
+Text:my heart hurts badly...
+
+Sentiment: 0
+Text:FS keeps crashing when I try to load Bungie plane.
+
+Sentiment: 0
+Text:My current headset is on its deathbed now!  My dad gave it to me just 3 weeks back!
+
+Sentiment: 0
+Text:....    My mood is currently BLAH . Sitting in a parking lot
+
+Sentiment: 1
+Text:I am happy
+
+Sentiment: 0
+Text:...that is all.
+
+Sentiment: 0
+Text:everyone went home. and not everyone was even here! ~CMF &lt;3
+
+Sentiment: 0
+Text:fed up....
+
+Sentiment: 0
+Text:"    fuck
+
+Sentiment: 0
+Text:"    Not feeling it today     And to make matters worst its super nasty and rainy outside
+
+Sentiment: 0
+Text:@Beansummer
+
+Sentiment: 0
+Text:"   Awwwwwh  i wanted Aiden Davis 2 WIN
+
+Sentiment: 1
+Text:bed time now....
+
+Sentiment: 0
+Text:Faltam 4 dias para o World Drawing day
+
+Sentiment: 0
+Text:"   Friends like these ... no thanks
+
+Sentiment: 0
+Text:haha omg. stayin steezy &amp; mowin the lawn... loviie still here &amp;&amp; goiing tanning soon.
+
+Sentiment: 0
+Text:i think my bf is cheating on me!!!!
+
+Sentiment: 0
+Text:i wanna play with my camera but i will settle for playing with iv's and heart monitors
+
+Sentiment: 0
+Text:i want an octo drive
+
+Sentiment: 0
+Text:"   I want to display my pretty voltron!  Upside
+
+Sentiment: 0
+Text:i want to find a way to put my photos on phone here i have Bluetooth in both phone and computer but it doesn't work
+
+Sentiment: 0
+Text:IN an effort to bring you the best content we just added at lease 30 hours to the release of The digital Rapture.  soon... hang tight
+
+Sentiment: 0
+Text:--- is our response to what happened today. and that is all.
+
+Sentiment: 0
+Text:"   J
+
+Sentiment: 0
+Text:"   kinda but not really
+
+Sentiment: 0
+Text:"   let's have a moment of silence for our childhood homes... sadly
+
+Sentiment: 0
+Text:lol all these #robotpickuplines are hilarious
+
+Sentiment: 0
+Text:"   man
+
+Sentiment: 0
+Text:"   my friends can get with ur friends and we can all b friends
+
+Sentiment: 0
+Text:"   No man is worth your tears
+
+Sentiment: 0
+Text:rain rain go away!
+
+Sentiment: 0
+Text:storms are scary!
+
+Sentiment: 0
+Text:such a beautiful satisfying day of bargain shopping. loves it.
+
+Sentiment: 0
+Text:Tell those girls your clocking out lol
+
+Sentiment: 1
+Text:thank god today is friday !!! I love Ti Ti! &lt;3
+
+Sentiment: 0
+Text:the batt to my internet connection died.  Guess its back to the mobile!
+
+Sentiment: 0
+Text:thrilled about being at work this morning
+
+Sentiment: 0
+Text:we break dance not hearts by Short Stack is my ringtone.... i LOVE that song!!!.....
+
+Sentiment: 0
+Text:www.apple.com/iphone now has it for the 18th
+
+Sentiment: 0
+Text:#squarespace #trackle  no apple iphone card for us  maybe tomorrow! I guess it helps if you tweet it huh?  We forgot
+
+Sentiment: 0
+Text:(unsure)  (hassle)  (:  (music) http://plurk.com/p/yq08l
+
+Sentiment: 0
+Text:exhausted
+
+Sentiment: 0
+Text:i want some ben&amp;jerrys cake batter please ugh
+
+Sentiment: 0
+Text:my life is very lazzzzyyyy!!!!!!!            ***********
+
+Sentiment: 0
+Text:"        wish ella was on or somebody
+
+Sentiment: 1
+Text:ish in a good mood .....tlk to me
+
+Sentiment: 0
+Text:i think i'm going to go 3 a long drive then when i get to the pacific ocean open my car door and throw my pc in the ocean
+
+Sentiment: 0
+Text:what the hell BBC?
+
+Sentiment: 0
+Text:#canucks
+
+Sentiment: 0
+Text:I dont like this weekend.. Huhuhu ( (
+
+Sentiment: 0
+Text:I'll get on it right away!
+
+Sentiment: 0
+Text:-     J + A MADE NiCE..... TWiCE!                     for now ;]
+
+Sentiment: 0
+Text:loves life atm!   its brilliant XD
+
+Sentiment: 1
+Text:who else is in a happy mood?? =D
+
+Sentiment: 0
+Text:!BYE EVERYONE!
+
+Sentiment: 0
+Text:...lonely night
+
+Sentiment: 0
+Text:blue does not work
+
+Sentiment: 0
+Text:geez I'm feeling their pain
+
+Sentiment: 0
+Text:i miss my summertime daley.
+
+Sentiment: 0
+Text:"    on the computer ... . . . . . . *ill*    lol
+
+Sentiment: 0
+Text:SO FAR SO GOOD!
+
+Sentiment: 0
+Text:TODAY WAS A GREAT DAY!!!
+
+Sentiment: 0
+Text:UGHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+
+Sentiment: 0
+Text:#Battleground
+
+Sentiment: 0
+Text:"   a lot
+
+Sentiment: 0
+Text:Awwwwwh  i wanted Aiden Davis 2 WIN  i &lt;3 him so bummed he didnt
+
+Sentiment: 0
+Text:Curtain drops at the Crown Uptown after 32 ye http://www.kansas.com/news/featured/story/860875.html
+
+Sentiment: 0
+Text:eh  must leave New Mexico and soon!
+
+Sentiment: 0
+Text:fail maths  i knew it i was just too slow
+
+Sentiment: 0
+Text:"   From Gongwer OH Report
+
+Sentiment: 0
+Text:fuck sake. Why can things never work out for me?
+
+Sentiment: 0
+Text:"-   going in town todaÑ‡ with mÑ‡ cousinnn
+
+Sentiment: 0
+Text:hoping to see my baby girl
+
+Sentiment: 0
+Text:i don't even know.
+
+Sentiment: 0
+Text:I just lost a member of my family
+
+Sentiment: 0
+Text:I'm SICK of bedtime battles
+
+Sentiment: 0
+Text:i'm so cold this morning......       i have chills all over.....
+
+Sentiment: 0
+Text:Just...
+
+Sentiment: 0
+Text:No no no. Tonight goes on the books as the worst SYTYCD results show.
+
+Sentiment: 0
+Text:no shopping
+
+Sentiment: 0
+Text:"  - Poor lil mousey
+
+Sentiment: 0
+Text:-- that's an EPIC sad face.
+
+Sentiment: 0
+Text:This magazine story just broke my heart at the dentist's office today:  http://tinyurl.com/ngbq2c
+
+Sentiment: 0
+Text:Tiger Woods is up by 2at 18 via http://nascar.com/racebuddy
+
+Sentiment: 0
+Text:wanna go meet wifey but can't....  this sux   :'(
+
+Sentiment: 0
+Text:Wondering why I feel like I do...I'll feel better though...Its all good! I'll be happy inspite of...Tweet ya lata
+
+Sentiment: 0
+Text:"   yippeeeee yay lets gather in the hay...HIS LOVE FOUND IT'S WAY+ boy
+
+Sentiment: 0
+Text:#IranElection - no one realizes how deep this goes.
+
+Sentiment: 0
+Text:&gt;. Bodies from Air France crash have been found  http://twurl.nl/dvu8be (via @Paisano )
+
+Sentiment: 0
+Text:"  &lt; that is the story of my life
+
+Sentiment: 0
+Text:I HAVE NOOOOOOOOOO FRIENDS ON TWITTER IT MAKES ME SAD WILL SOMEONE FOLLOW ME
+
+Sentiment: 0
+Text:i just want to hear from you. i guess that's asking too much..
+
+Sentiment: 0
+Text:Hardest working chica i know( mii boss lady) @MoneyAceweather (look up to her seriously) lOl
+
+Sentiment: 0
+Text:i really2 don't like this condition. sucksssssss
+
+Sentiment: 0
+Text:"       Orlando Lost  The Series. Oh Well
+
+Sentiment: 0
+Text:rinitis sucks!!!!!
+
+Sentiment: 0
+Text:thanks for being the bestttttttttttttttttttt J-dawg
+
+Sentiment: 0
+Text:&gt;( &gt;(  i'm mad and sad right now. Played so terrible today in both soccer and basketball.
+
+Sentiment: 0
+Text:&lt;- but mustache man is not that desperate
+
+Sentiment: 0
+Text:&lt;--------- my face because i'm missing zoro tonight.
+
+Sentiment: 0
+Text:@riceuniversiity I know huh @Kouture85 Im bout to cry@Ahmier thanks Marco! *muah*
+
+Sentiment: 0
+Text:angry
+
+Sentiment: 0
+Text:praise God for this beautiful day!!!
+
+Sentiment: 0
+Text:sry matt 2 hear that (
+
+Sentiment: 0
+Text:what the fucccckkkkkkkkkk
+
+Sentiment: 0
+Text:Bye World!!!!!!
+
+Sentiment: 0
+Text:i couldnt even have one fairytale night
+
+Sentiment: 0
+Text:I'll be working when Pottercast/Lupins/Willows come near me.  FAIL.
+
+Sentiment: 0
+Text:"    My cell phone screen is dead.  Sooooooooooo
+
+Sentiment: 0
+Text:"    NO MORE SICKNESS. strike i say STRIKE! ohhhh well
+
+Sentiment: 0
+Text:Nobody likes Year One in the reviews I've read. I'm disappointed. But maybe now I'll like it more since I'm not expecting much..
+
+Sentiment: 0
+Text:(must i say more?)
+
+Sentiment: 0
+Text:*old me's dead and gone*
+
+Sentiment: 0
+Text:... have to go now ??? 13 more minutes   ... please please please
+
+Sentiment: 1
+Text:@Lakers!! I love you guyssss! Those rings.. Mmmyeahh! Bling blingg
+
+Sentiment: 0
+Text:@PERFEKTnCHANCE (Chance) is Boo #29
+
+Sentiment: 0
+Text:@Standing_Stones  Thank you very much for the DVD suggestion!  Very nice of you!  Looks good.
+
+Sentiment: 0
+Text:awwwww i really hate this.
+
+Sentiment: 0
+Text:bad day.
+
+Sentiment: 0
+Text:bad day.....damn you @311. What kind of ticket sale was that.....
+
+Sentiment: 0
+Text:Boston Globe could be shut down in 60 days http://sbne.ws/r/vWc
+
+Sentiment: 0
+Text:bye guys!!!! i'ma miss ya'll sooo sooo much! but don't worry i'll be back on monday!!! have an awesome weekend!!! peace!!!!
+
+Sentiment: 0
+Text:can i have some followers :' ( ... i'm so sad...    NOW THAT I'M LOSING HOPE -pressure
+
+Sentiment: 0
+Text:Couldn't bless'd da mic w/ my bra's in music 2day @ERiceOnTheBeat @moneybagzfam1st @circustk
+
+Sentiment: 0
+Text:CRY CRY CRY
+
+Sentiment: 0
+Text:F**kn day...
+
+Sentiment: 0
+Text:Goodnight
+
+Sentiment: 0
+Text:grandma is very sick. not doing well. going to the emergency room.
+
+Sentiment: 0
+Text:had a WONDERFUL day  G_D is GRRRRRRRRREAT!!!!!
+
+Sentiment: 0
+Text:I am going to shed tears if the Cavs have to go home tonight. Like seriously
+
+Sentiment: 0
+Text:i am soooo sad...at this point of night i'd be cuddling with jonathan like i did for 4 years
+
+Sentiment: 0
+Text:I hate you forever.
+
+Sentiment: 0
+Text:I have passed 70-542 exam today
+
+Sentiment: 0
+Text:i missed it
+
+Sentiment: 0
+Text:i still Feel like a Douchebag
+
+Sentiment: 0
+Text:I want to write a song. I think I will.
+
+Sentiment: 1
+Text:- @serialseb Always thought time estimates should use 'value of Pi rule' (x 3.14). Only exception being 'Pi squared rule'.
+
+Sentiment: 0
+Text:@SirKenRobinson Creativity via Twitter http://bit.ly/HVTHS
+
+Sentiment: 0
+Text:"- @SlashHudson you tease
+
+Sentiment: 0
+Text:@sommacolada never answering my im's
+
+Sentiment: 0
+Text:@soultravelers3 http://bit.ly/H9Nqe  15 TravelTips 4 student safety in roughplaces
+
+Sentiment: 0
+Text:@squarespace it's now fathers day and you haven't picked me...yet. I kind of want to incessantly bother you...#squarespace
+
+Sentiment: 0
+Text:@SRenaeNae... What is 'FML'
+
+Sentiment: 0
+Text:@sweetlilmzmia: &quot;Gotta LOVE Blip.fm - John Mayer Trio - CALIFORNIA DREAMIN' as heard on Conan 06/04/2009 ---... â™« http://blip.fm/~7qdf0
+
+Sentiment: 0
+Text:@Thatsrightnate ~ Just in case you need some help w that:  http://bit.ly/12nP1H
+
+Sentiment: 1
+Text:@THEDIAMONDCOACH  Im sure he'd love that LOL
+
+Sentiment: 0
+Text:@theenglishmuse on &quot;Karl Lagerfeld&quot; 's Twitter profile(s) lol!  Heart the first pic http://tinyurl.com/cbl6tm
+
+Sentiment: 1
+Text:@TheIanCrawford is no longer in the Cab. To say I'm heartbroken is an understatement... good luck with everything! you're amazing ian.
+
+Sentiment: 0
+Text:@va_songstress broke my twitter..
+
+Sentiment: 0
+Text:@warbo is off clubbing... must come over to sheffield sometime &amp; party but really probably shouldn't atm. a tech conference is a conf etc
+
+Sentiment: 0
+Text:" @weselec My avatar can't figure out what you people are
+
+Sentiment: 0
+Text:@xxkirahxx is fulfilling my life's ambition 2 go 2 a Jonas Brothers concert + I went 2 HMV and the new album is already sold out! Why me?
+
+Sentiment: 0
+Text:" @yhf What happened to movies
+
+Sentiment: 0
+Text:@zochula just yelled at me for picking apple store over food.
+
+Sentiment: 0
+Text:@ZOEBOE: &quot;whoops credit is due to   &gt;&gt;&gt;rb@MusicIsMySunshine:  &quot; ? http://blip.fm/~7d4pk
+
+Sentiment: 0
+Text:=&gt; How not to exit a Cessna 206 #skydiving http://bit.ly/16ZZJ7
+
+Sentiment: 0
+Text:1 of me cats kittens died only 3 days old too..RIP ming.
+
+Sentiment: 0
+Text:1 week before the palm pre comes out and my centro dies. I have a temp phone but my contacts aren't transfered yet. #sadpanda #fb
+
+Sentiment: 0
+Text:"- 20 chicken mcnuggets
+
+Sentiment: 0
+Text:3 hrs on da phone...lol dude is hilarious
+
+Sentiment: 0
+Text:- 400th tweet (!) breakfast: everything bagel toasted w/cream cheese with an iced cap... delish
+
+Sentiment: 0
+Text:5 gb of video to upload to utube :O dam sony vegas making it so big
+
+Sentiment: 0
+Text:50% of the new footwear labeling norm is definitions that are never referred to in the document. Who wrote this up?
+
+Sentiment: 0
+Text:a big angry spider was crawling in my blankeys  i flicked it to the floor and cant sleep now
+
+Sentiment: 0
+Text:A blessed sunday everyone!
+
+Sentiment: 0
+Text:- a couple years of sickness all piled up to this one day
+
+Sentiment: 0
+Text:A dog riding the bicycle http://bit.ly/gvMzD
+
+Sentiment: 0
+Text:" a fly just landed in my green chile stew. i've never been big on killing bugs
+
+Sentiment: 0
+Text:A problem shared is a buck passed
+
+Sentiment: 0
+Text:A_ just got the same handshake in her meeting. Vibe here sucks
+
+Sentiment: 0
+Text:à¸”à¸¹à¹?à¸šà¹„à¸•à¹‹ hitech
+
+Sentiment: 0
+Text:(Jonah:whats a tweet!?) SHARON!!!!!!!!!!!!
+
+Sentiment: 0
+Text:alice is beating be at my scooby doo board game!
+
+Sentiment: 1
+Text:am quite tired can't wait till wwe at burswood &lt;3
+
+Sentiment: 0
+Text:anyone have any advice on how to cope with a break up?
+
+Sentiment: 0
+Text:"  arrrrrrrgggggggghhhhhhhh!!!!!!!!!!  that's it
+
+Sentiment: 0
+Text:"-  awake
+
+Sentiment: 0
+Text:Being NASTY in the studio with my woman!!!  Go SLEEPIES!!!
+
+Sentiment: 0
+Text:but i understand.
+
+Sentiment: 0
+Text:cars being inspected today gonna cost me over 600 dollars
+
+Sentiment: 0
+Text:e is OUT!
+
+Sentiment: 0
+Text:everythings wrong.
+
+Sentiment: 0
+Text:Exercise 2 build muscle mass is only thing that speeds metabolism: http://tinyurl.com/bvagbj
+
+Sentiment: 1
+Text:feeling ok for the first time in a few days. thank you!
+
+Sentiment: 0
+Text:"  found a new way to text him
+
+Sentiment: 0
+Text:friends dying is just horrible.
+
+Sentiment: 0
+Text:going for a paddle 2moz
+
+Sentiment: 0
+Text:Good Nite.  I hope Grandma visits my dreams again tonight.  Last Night was uplifting...  I miss her.
+
+Sentiment: 1
+Text:Goodbassplayer... that is funny.... ;)  OilIPO.... I hope the people that will bring us good things are started early this week...
+
+Sentiment: 0
+Text:He was the best there.
+
+Sentiment: 0
+Text:Hungover........ and craving chocolate! OMG how funny was the pub last night!! LOL
+
+Sentiment: 0
+Text:I dont want my sister to leave me for the whole summer!
+
+Sentiment: 0
+Text:i hope everyone is at church so i can just go to my concert in peace on wed.  dont have to worry about rushing back to church to visit
+
+Sentiment: 0
+Text:- i just spilt the last of my jordans cereal on the floor iâ€™m distraught http://tumblr.com/xxw2329lh
+
+Sentiment: 0
+Text:I miss my family and friends.
+
+Sentiment: 0
+Text:I see I missed the nectar sucking dirty talk ;)
+
+Sentiment: 0
+Text:I want a freaking puppy now! A cute little black yorkshire terrier.
+
+Sentiment: 0
+Text:- I want irissa back http://tumblr.com/xpn1wrj48
+
+Sentiment: 0
+Text:I'm glad diversity got through...but what about stavros!
+
+Sentiment: 1
+Text:I'm here to tell ya ... very yummy.  Decided to go on a hunt for blender drinks ... know any good ones?
+
+Sentiment: 0
+Text:I'm out of Nutella
+
+Sentiment: 0
+Text:is it rlly tht serious? I'm abt to go thru my fonebook...
+
+Sentiment: 0
+Text:is listenin to my new fav band more amor
+
+Sentiment: 0
+Text:it is on environmental studies and driving me mental
+
+Sentiment: 0
+Text:I've always seen bits &amp; pieces of Shottas. now I've seen the whole movie...it ends sooooo sad   I'm gonna cry.
+
+Sentiment: 0
+Text:Just another day in paradise. ;)
+
+Sentiment: 0
+Text:Just found a bone in my chicken nugget    Not cool
+
+Sentiment: 0
+Text:" - Like I said
+
+Sentiment: 1
+Text:love you! &lt;333
+
+Sentiment: 0
+Text:my aunties dog is getting put down  hes my dogs brother aswell
+
+Sentiment: 0
+Text:" - my head feels like its going to explode - mmm
+
+Sentiment: 0
+Text:my head is killing meee
+
+Sentiment: 0
+Text:" - My name is Amy. Iï¿½m only three My eyes are swollen I cannot see
+
+Sentiment: 0
+Text:" - my picture with Kris Karmada is gone forever
+
+Sentiment: 0
+Text:Â«Confirmed: Missing Air France Flight 447 has Crashed in the AtlanticÂ»: http://bit.ly/BxdVL
+
+Sentiment: 0
+Text:about 1/4 of my myspace comments are gone. cause someone hacked onto wills account. and kept abusing others so he had to delete it.
+
+Sentiment: 1
+Text:about school....... it will all be over soon can't wait to celebrate            STRES till then
+
+Sentiment: 0
+Text:- about to pop in a movie &amp; chill a bit... get it innnnn.! call n text
+
+Sentiment: 0
+Text:- about to swim
+
+Sentiment: 0
+Text:abt missing Air France plane. Follow here for best air news source:  http://tinyurl.com/m2p6yk
+
+Sentiment: 0
+Text:AFI are not at reading til sunday this sucks !!!!!!!!!
+
+Sentiment: 0
+Text:" after a crap night was looking forward to being cheered up
+
+Sentiment: 0
+Text:ah the postman didn't have my package. What am I goon to do for the rest of the day.....
+
+Sentiment: 0
+Text:ahh school on monday!!!! not ready
+
+Sentiment: 0
+Text:" ahhh. Drizzy. Mr. Rogers
+
+Sentiment: 0
+Text:" Airport Express doesn't rock enough to allow wireless scanning with the Canon pixma MX310
+
+Sentiment: 0
+Text:" Alistair's friends are all in the kitchen and I'm in my pjs...I JUST WANT A CUP OF TEA
+
+Sentiment: 0
+Text:all day.. no play.
+
+Sentiment: 0
+Text:all dressed up and no bicyclist for Monday nite ride n Henderson KY http://bit.ly/10H4ne
+
+Sentiment: 0
+Text:all I want is my ma in my arms  that's all I want is you in my arms
+
+Sentiment: 0
+Text:all my friends are gone haley n katie @ camp Paris @ moms Landin n Ayonna @ aunts n moms im so bored
+
+Sentiment: 1
+Text:all nighter. yeeeeeeeeeeeessshhhh what a nightmare up coming 2 weeks. cannot wait to graduate!
+
+Sentiment: 0
+Text:All the small things...
+
+Sentiment: 0
+Text:" All those Non-Robsten posts are making me sad. I mean
+
+Sentiment: 0
+Text:allison didnt win. She should have.
+
+Sentiment: 1
+Text:almost time to leave.
+
+Sentiment: 0
+Text:already getting sleepy...I really want to get my psych quizzes done tonight...
+
+Sentiment: 0
+Text:- always a nice thing to wake up to. yay. :p (gosh I'm such a typical lame overanalyzing teenager) lmao  / had a nice nap.
+
+Sentiment: 0
+Text:am excited
+
+Sentiment: 0
+Text:Am feelin very happy!?
+
+Sentiment: 0
+Text:Am I feeding the Pig'?
+
+Sentiment: 0
+Text:" am i losing my mind cause i wanna see my.TC on TV right now
+
+Sentiment: 0
+Text:am sad to say i didn't get my results today somehow the school forgot to mail my results to me?? Typical. Ugh
+
+Sentiment: 0
+Text:-- An alarm clock is a device for waking up people who do not have small children. ---
+
+Sentiment: 0
+Text:And how can you mend a broken heart?   â™« http://blip.fm/~8k7kl
+
+Sentiment: 0
+Text:and I think that's why I felt really sick and depressed in school today cuz of all the stress.. I'm glad I got that off my chest :/
+
+Sentiment: 0
+Text:and i was just starting to get confident in myself! you have torn me down!
+
+Sentiment: 0
+Text:anoron.reedcourty.operaunite.com/webserver/content/ home.sch alternatÃ­va
+
+Sentiment: 0
+Text:another 45 mins....
+
+Sentiment: 0
+Text:another early day
+
+Sentiment: 0
+Text:another father's day weekend I don't get to spend with my dad..
+
+Sentiment: 0
+Text:Another Friday night of Rock Band
+
+Sentiment: 0
+Text:anticipating a tough day ahead
+
+Sentiment: 0
+Text:anyone know if Ghostbusters is region free on 360?? and where to get a US copy in Britain if it is
+
+Sentiment: 0
+Text:: D a million making a difference. I can't help but to believe. I came in believing &amp; I will leave believing GOD IS!
+
+Sentiment: 0
+Text:- ?oVe&lt;33
+
+Sentiment: 0
+Text:6:30...what's wrong wit it?
+
+Sentiment: 0
+Text:- alergic... nose itchy and eyes burning... Hope It's getting better soon....
+
+Sentiment: 0
+Text:and they KEEP on coming!   xox
+
+Sentiment: 0
+Text:Another expensive weekend trip to the vet.
+
+Sentiment: 0
+Text:"  are there any parties tonight!? im hella bored at home
+
+Sentiment: 0
+Text:but chilli prawns will make the pain better...
+
+Sentiment: 0
+Text:daughter's beloved diabetic dwarf hamster died in her hands this morning...all creatures are worthy of love. â™¥
+
+Sentiment: 0
+Text:DD has pinkeye...not fun.
+
+Sentiment: 0
+Text:-- Farrah Fawcett Dies of Cancer at 62 - ABC News http://bit.ly/akQLD (via @Turner)
+
+Sentiment: 0
+Text:feeling hopeless and useless.
+
+Sentiment: 0
+Text:forgot my lunch at home
+
+Sentiment: 0
+Text:General Motors sold hummer :S :S
+
+Sentiment: 0
+Text:Good morning all! Have a great day!!!
+
+Sentiment: 0
+Text:goodnight..
+
+Sentiment: 0
+Text:gooood night!!   must prepare for tomorrows meeting now
+
+Sentiment: 0
+Text:- Great! Im bored at the moment and just have no idea on what to do!  Missing Boyfie too! Damn iâ€™m... http://tumblr.com/xzp224xgj
+
+Sentiment: 0
+Text:having a luvly day http://tinyurl.com/ckbmkc
+
+Sentiment: 0
+Text:he is so hot !
+
+Sentiment: 0
+Text:hmm what to do!
+
+Sentiment: 0
+Text:http://bit.ly/18xobk Five Guys Locations Closed After Visit from &lt;em&gt;Inside Edition&lt;/em&gt;'s 'Rat Patrol' @dcist
+
+Sentiment: 0
+Text:I am actually crying now because of sore throat.
+
+Sentiment: 0
+Text:" - I feel irresponsible and sort of horrible. Marshmallows
+
+Sentiment: 0
+Text:i miss my brother.. i worry about him.
+
+Sentiment: 0
+Text:"  i need to think of something else
+
+Sentiment: 0
+Text:i wanted julian to win!
+
+Sentiment: 0
+Text:- Iowa No. 2 in happy! Yea!
+
+Sentiment: 0
+Text:jus got some bad news
+
+Sentiment: 0
+Text:just got home
+
+Sentiment: 0
+Text:just mean
+
+Sentiment: 0
+Text:just saw sink into me the whole video on kerrang! ive seen it before loads but its so much better on tv!
+
+Sentiment: 0
+Text:- Limp Bizkit - Rollin' #SongStuckInMyHeadWhenIWokeUp
+
+Sentiment: 0
+Text:"  ''Love
+
+Sentiment: 0
+Text:my camera broke !
+
+Sentiment: 0
+Text:My mom is the funniest person ever!
+
+Sentiment: 0
+Text:my parents left
+
+Sentiment: 0
+Text:"  Nadal is out @ French Open ... now
+
+Sentiment: 0
+Text:"  no ass beatings
+
+Sentiment: 0
+Text:nothing....
+
+Sentiment: 0
+Text:ok we'll talk about your boyfriends and stuff tomorrow ;) lmao and we'll talk for real soon too!! wooo hehe ilysfm doodle xxxx
+
+Sentiment: 1
+Text:Pie seems to have quite a good appetite now.
+
+Sentiment: 0
+Text:- server problems - motivating me to change hosting providers though... #fb
+
+Sentiment: 0
+Text:shakes head
+
+Sentiment: 0
+Text:"  Shock loss to Sparks...bummer
+
+Sentiment: 0
+Text:some asshole got a hold of my email and signed me up for all this spam mail.  ughhhh...it's non stop.  anyone have a spam blocker?
+
+Sentiment: 0
+Text:someone just said ast least your pretty  . thanks but but being pretty gets you nowhere you have to much integrity .
+
+Sentiment: 0
+Text:myspace peOplE  can get really angry if I don't answer them right away... JA!
+
+Sentiment: 0
+Text:never get any photo comments on m space and more
+
+Sentiment: 0
+Text:"  NHL: Penguins 1
+
+Sentiment: 0
+Text:no tickets in germany for the miley cyrus tour..
+
+Sentiment: 0
+Text:"  photo shoot rained out...  oh well
+
+Sentiment: 0
+Text:R.I.P young teke!!!  i miss you cuzin!! &lt;3     it has been 1 year sence you died. . .    [Dont be ashamed of your faith]
+
+Sentiment: 0
+Text:RIP Charles J ...the world is with one less fine fellow
+
+Sentiment: 0
+Text:RSL was at the Paley talk?! Now I'm even more depressed I couldn't get a ticket. Oh wells.
+
+Sentiment: 0
+Text:- she is amazing -- Bjork ï¿½ Bachelorette ? http://blip.fm/~4lfyi
+
+Sentiment: 0
+Text:so bored
+
+Sentiment: 1
+Text:so much for a good weekend
+
+Sentiment: 0
+Text:Thank you.    @Kyauphie
+
+Sentiment: 0
+Text:The hotel doesn't know where it is either... that was my favorite! How poopie is that.
+
+Sentiment: 0
+Text:- thelovelybones: I plan on owning this â€¦donâ€™t judge me. http://tumblr.com/xr0238tmq
+
+Sentiment: 0
+Text:"  This year
+
+Sentiment: 0
+Text:- ticketsandpassports: Â lmao your not a nerd. i think its cool when guys like anime. http://tumblr.com/xqn1x1tue
+
+Sentiment: 0
+Text:To all the mothers whose day may not be so happy. God loves you. TLC - Waterfalls ? http://blip.fm/~5zi9g
+
+Sentiment: 0
+Text:Today is not a good day. But I guess laying around the house in your undies isn't so bad.
+
+Sentiment: 0
+Text:"  went to maggie's bday party
+
+Sentiment: 0
+Text:when will RB2 get an australian release date???
+
+Sentiment: 0
+Text:" !my grandma just told me she thinks I'm stupid. Well
+
+Sentiment: 0
+Text:#andyhurleyday
+
+Sentiment: 0
+Text:#ASOT400
+
+Sentiment: 0
+Text:#betseyjohnson why are you doing this to me? This necklace is $150 rather than the usual $50-60 I want it  http://twitpic.com/6ioi8
+
+Sentiment: 0
+Text:#followfriday @n3rin3 @jurgenphoto @shaneaddinall @robi27 @dannyvan @byronrode @tattood1
+
+Sentiment: 0
+Text:#IMISSCATH #IMISSCATH #IMISSCATH #IMISSCATH #IMISSCATH #IMISSCATH #IMISSCATH #IMISSCATH #IMISSCATH #IMISSCATH #IMISSCATH #IMISSCATH
+
+Sentiment: 0
+Text:#mcflyforgermany #mcflyforgermany #mcflyforgermany #mcflyforgermany #mcflyforgermany #mcflyforgermany #mcflyforgermany #mcflyforgermany
+
+Sentiment: 0
+Text:#p1wimax no signal detected here at the gardens
+
+Sentiment: 0
+Text:#trackle
+
+Sentiment: 0
+Text:--&gt; that was then. ='( --&gt; this is NOW.
+
+Sentiment: 0
+Text:&lt;3 this pic If u want more tell me cause I got more   http://twitpic.com/6vsv8
+
+Sentiment: 0
+Text:&lt;---My expression watching this again: http://tinyurl.com/eqbwe
+
+Sentiment: 0
+Text:&quot;Beach Ball Fail&quot; - http://cheezburger.com/tw/?v7-20659 #lol #fail
+
+Sentiment: 0
+Text:&quot;I'm a freelance writer for Braille porn and a stunt double for a hand model for Palmolive dishwashing liquid.&quot; [from @ShinyHappyHead]
+
+Sentiment: 1
+Text:&quot;Im in love and I don't care who knows it !&quot; -elf
+
+Sentiment: 0
+Text:&quot;It's raining again&quot; (c) Supertramp
+
+Sentiment: 0
+Text:" &quot;Y must people insist on talking about stupid politics on the comments of a bubblegum pop song. Sorry
+
+Sentiment: 0
+Text:&quot;you have to do it all alone&quot;
+
+Sentiment: 0
+Text:" Apparently the 'new' 3.0 is the same build as the GM
+
+Sentiment: 0
+Text:" Archie's annoying me this morning
+
+Sentiment: 0
+Text:are you ok @zheyamada ?
+
+Sentiment: 0
+Text:" Argh
+
+Sentiment: 0
+Text:-as simple as it gets.
+
+Sentiment: 0
+Text:at Chris Brown . . . I honestly dont feel bad for Rihanna ; anyways . . . Out nd such . . .
+
+Sentiment: 0
+Text:at last night
+
+Sentiment: 0
+Text:" at my tweets: 1 lady saying goodnite
+
+Sentiment: 0
+Text:at the nursery. the wailing have just ended. all sleeping soundly. working morning shift tmrw. grr
+
+Sentiment: 0
+Text:AT THE RANDOM MENTION ABOUT CORE 2 &quot;DEALS&quot; THAT ARE ALMOST TWICE AS MUCH SENSE AS IT'S NOT TIED TO HIMSELF ABOUT TV EVERY NIGHT.
+
+Sentiment: 0
+Text:at work ! Fuck !
+
+Sentiment: 0
+Text:at work and got loads to do b4 I leave today. Toodles lufflies xxx
+
+Sentiment: 0
+Text:attempting to get other people on twitter(other than cate)  to talk to me but it is failing
+
+Sentiment: 0
+Text:Aw. Toy Story 3 is coming out NEXT year.
+
+Sentiment: 0
+Text:awake...finally..random dream...i was a penguin but i lived in jersey and i oddly lived in a icecream store lolz
+
+Sentiment: 0
+Text:awesome  http://twitpic.com/6ikhd
+
+Sentiment: 0
+Text:awesome black coffee... anyone?
+
+Sentiment: 0
+Text:aww great song &quot;Picture to burn&quot;
+
+Sentiment: 0
+Text:AWW I GOTA DO HOMEWORK
+
+Sentiment: 0
+Text:aww someone borrowed it without telling me.
+
+Sentiment: 0
+Text:Awww derek is at work back to making kandie with the little ones  :o
+
+Sentiment: 0
+Text:B- in genetics so that's a 2.75 towards my GPA. What really sucks is that I got a 79.75% in the class and an 80% is a B.
+
+Sentiment: 0
+Text:baby died last night. @$%%$# day.
+
+Sentiment: 0
+Text:baby girl's so upset.....i'm not where i need to be with my sewing... and it's almost 10pm and i'm finally eating a little dinner..sigh..
+
+Sentiment: 0
+Text:baby sitting today.. shopping tomorrow.. Rue 21 Is the best Ever..
+
+Sentiment: 1
+Text:baby you like my favorite dessert I just can not get enough of you love you I'm yours 4Eva
+
+Sentiment: 0
+Text:"- back from cali
+
+Sentiment: 0
+Text:- back pain
+
+Sentiment: 0
+Text:Back to basics
+
+Sentiment: 0
+Text:bad day 2day. Broken glasses  rainy weather  uof
+
+Sentiment: 0
+Text:bad night for the pens
+
+Sentiment: 0
+Text:bad timing- a new mommy just called for newborn pictures and I can't fit the baby into my schedule no matter how hard I try
+
+Sentiment: 0
+Text:BAHAHAHA  me and jodie burst out doing kevin's sos dance!  EPICCC XD
+
+Sentiment: 0
+Text:' bank account is negative $118...
+
+Sentiment: 1
+Text:Bas one last time 2 update my status
+
+Sentiment: 0
+Text:baseball.
+
+Sentiment: 0
+Text:bcd's closed! i guess nodaji it is.
+
+Sentiment: 0
+Text:"- bed ; I gotta get up early
+
+Sentiment: 0
+Text:bed time......................................................
+
+Sentiment: 0
+Text:bedss gayyyy ... oh well Goodnight people  @technotetris and @ShaunAcland ;D
+
+Sentiment: 0
+Text:- been up for 2 days straight. LoL. i NEVER sleep.
+
+Sentiment: 0
+Text:being afraid of food is an eating disorder right?
+
+Sentiment: 0
+Text:being told im beautiful doesnt make my tummy better
+
+Sentiment: 0
+Text:besides that great graduation day. I finaly made it I'm a highschool graduate ! Moms word .. Chapter close .. Keep pushing foward.
+
+Sentiment: 0
+Text:"  still no phone. bukas pa raw in the afternoon...  oh well
+
+Sentiment: 0
+Text:such a nice day
+
+Sentiment: 0
+Text:Summertime by DJ Jazzy Jeff and The Fresh Prince
+
+Sentiment: 0
+Text:The iPhone will be out of commission for a while.
+
+Sentiment: 0
+Text:the weather is lushhh!
+
+Sentiment: 1
+Text:Things are not good in my head. I may not be around a lot this weekend.
+
+Sentiment: 0
+Text:third date went well....moving on to fourth!!!!!!
+
+Sentiment: 0
+Text:To The Death! An awesome random comic for the certifiably not sane. (  )
+
+Sentiment: 0
+Text:try and enjoy ur family &amp; I am here if I need anything-anything!!!. Love you Sis-be brave &amp; I know u r strong ur in my prayers
+
+Sentiment: 0
+Text:twilight !!!
+
+Sentiment: 1
+Text:twitter wont let me send replies today - boo hoo
+
+Sentiment: 0
+Text:two more days.
+
+Sentiment: 0
+Text:ughhh..
+
+Sentiment: 0
+Text:UVA baseball...   Come on boys you can do it
+
+Sentiment: 0
+Text:water works are gonna start
+
+Sentiment: 0
+Text:" - Well i wrote a missive post about last night and all the things that happened
+
+Sentiment: 0
+Text:"  well
+
+Sentiment: 0
+Text:- 'What Canadians Have to be Proud of' http://bit.ly/NX4aQ
+
+Sentiment: 0
+Text:why is it raining?
+
+Sentiment: 0
+Text:why me?
+
+Sentiment: 0
+Text:xD go day!!!
+
+Sentiment: 0
+Text:- yay for STAR testing week! I start school at 11am this week and I have no school on thursday! maybe SF... http://tumblr.com/xvq1mln1l
+
+Sentiment: 0
+Text:- #Hello #World! This is where i live: http://twitpic.com/6bo0t #beautiful #5am #woop - bed now
+
+Sentiment: 0
+Text:#shortstack #tokiohotel #shortstack #tokiohotel #shortstack #tokiohotel #shortstack #tokiohotel #shortstack #tokiohotel #shortstack
+
+Sentiment: 0
+Text:#squaresp #squarespac #squarespace #trackle giveaways giveway iphonegiveway squarespace squarespce trackle
+
+Sentiment: 0
+Text:&lt;*~Free!~*&gt;
+
+Sentiment: 0
+Text:&lt;----that's me smiling.
+
+Sentiment: 0
+Text:- &quot;......you were asleep while i gathered my things in the dark. the burns on my fingers were all that was left of the spark...&quot; -
+
+Sentiment: 0
+Text:&quot;BBC NEWS | UK maps climate change forecasts&quot; - The picture it paints is an alarming one ( http://bit.ly/69AYs )
+
+Sentiment: 0
+Text:&quot;I'm giving up on you. I don't care how you mess up your life now.&quot;... :'(
+
+Sentiment: 0
+Text:" &quot;Meteorologists Predict Chilly
+
+Sentiment: 0
+Text:&quot;Nintendo DSi Portable Game System - What Will You and i Do?&quot; ( http://tinyurl.com/b3yobq )
+
+Sentiment: 0
+Text:&quot;Promote My Site - Getting to the Front Page and Other Places in Social Media&quot; ( http://tinyurl.com/dflzg4 )
+
+Sentiment: 0
+Text:" &quot;The universe is a living being
+
+Sentiment: 0
+Text:- &quot;the world makes music for people who listen &quot;
+
+Sentiment: 0
+Text:&quot;Will Diggâ€™s New Share Feature Pollute Twitter?&quot; ( http://tinyurl.com/ncqkm5 )
+
+Sentiment: 0
+Text:(angry) mixed motions! but soo frustrated x( http://plurk.com/p/13s5mg
+
+Sentiment: 0
+Text:(mood i am in)
+
+Sentiment: 0
+Text:*exited* I just bought some oreos!! I hope everyone likes oreos..
+
+Sentiment: 0
+Text:*hugs @ignorantsheep*
+
+Sentiment: 0
+Text:*sends you e-hugs*
+
+Sentiment: 0
+Text:*tear*
+
+Sentiment: 0
+Text:" *cries* I'm so depressed
+
+Sentiment: 0
+Text:"--- *On my way to the doctors with my Duo
+
+Sentiment: 0
+Text:*sob* must be in bed!!
+
+Sentiment: 0
+Text:*wishes she was at summer jam*
+
+Sentiment: 0
+Text:"
+
+Sentiment: 0
+Text:-- . BABBBBBBBBYY .  I missed you MUCH!!
+
+Sentiment: 0
+Text:. Sunday is over.
+
+Sentiment: 0
+Text:-- . well then you gon have to stop w. that . &quot;IDC&quot; shit. JUST be faithful like *points to em* MOI!
+
+Sentiment: 0
+Text:.. why the jonas are bad with us !! come to paraguay
+
+Sentiment: 0
+Text:... its JONAS DAY!!!!!!!!
+
+Sentiment: 0
+Text:... UghH... Anybody wanna come to my house and cook? My mom is leavin for work and aint cook me shit !... Can't trust dem hoes!!!
+
+Sentiment: 0
+Text:....  i don't know what to do..
+
+Sentiment: 0
+Text:.... i think i lost my spanish book!! :-X
+
+Sentiment: 0
+Text:.... Life can be so complicated. I know God has a plan .... I just have to trust in him.
+
+Sentiment: 0
+Text:" ......... Oh well
+
+Sentiment: 1
+Text:.........not really a good night guys ! buu huu
+
+Sentiment: 0
+Text:...I did not get cast in but I will keep looking for some dance opportunities.  I need some exercise.
+
+Sentiment: 0
+Text:...the ground around me is wet... i looked up to see if any drops fall on my face...it was drizzle all around but I am missing my drops
+
+Sentiment: 0
+Text:..i forgot to bring my new sharpie pens to school today..booo!
+
+Sentiment: 0
+Text:..omg...my celly is off...this hasn't happened to me in years...WTF!!! gota get my bill paid
+
+Sentiment: 0
+Text:: The Last Gadget http://tinyurl.com/pd4wyp #Geek_And_Poke
+
+Sentiment: 0
+Text::'( this is so horrible
+
+Sentiment: 0
+Text::'( where ius that one person that can make me smile
+
+Sentiment: 0
+Text::S this tweetdeck is killing me hate it
+
+Sentiment: 0
+Text:;) July Flowers (July 2009) #Holiday
+
+Sentiment: 0
+Text:@ last.fm not working.
+
+Sentiment: 1
+Text:@aaronXnow finally got twitter haha
+
+Sentiment: 0
+Text:@aChAotIcBeaUtY
+
+Sentiment: 0
+Text:@Aimee_B_Loved I think there may be a connection between Paul Reubens and the reason why movie theater fl.. http://tr.im/nfKO
+
+Sentiment: 0
+Text:"- @alexjreid - saw that earlier
+
+Sentiment: 0
+Text:"- @alittlebit - temperature is down
+
+Sentiment: 0
+Text:"-- @anyamanda said I tweets less these days so
+
+Sentiment: 1
+Text:" @AuroraLee Would love to see you guys sometime! *grin* - and aw rats
+
+Sentiment: 0
+Text:- @benboychuk I hope it's not actually on here birthday that she's getting shots.
+
+Sentiment: 0
+Text:" @billbeckett's signature has 100% rubbed off my mondayeyes bracelet. At least I have plenty of autographs from him
+
+Sentiment: 0
+Text:@blackswan2 &quot;to all you&quot; ? http://blip.fm/~7d1qo
+
+Sentiment: 0
+Text:@blondediva11 What happened while I was gone? Anybody get arrested http://tr.im/koFz
+
+Sentiment: 0
+Text:- @breegeek I'll know if u can't find a replacement 4me. I'll still pay u if not.  I won't let u hang
+
+Sentiment: 0
+Text:@canuckgrrrl Seeing a guy dressed up as a banana totally made my day. Phallic symbol FTW http://tr.im/mVTm
+
+Sentiment: 0
+Text:- @carole29 yep  coz of the England game on Wednesday
+
+Sentiment: 0
+Text:"
+
+Sentiment: 0
+Text:-- . =D There's my BOO.  *Blushes*
+
+Sentiment: 0
+Text:-- . BYYEEE . ILY2 Jamarcusssssss
+
+Sentiment: 0
+Text:. I was want to buy the sims 3 . But it sold out . Wtf . Haha..
+
+Sentiment: 0
+Text:-- . You aint gotta apologize. I know I'm not ugly.
+
+Sentiment: 0
+Text:.. just
+
+Sentiment: 0
+Text:" .. yep
+
+Sentiment: 1
+Text:... ...I don't wanna get rid of twitter  You guys are too cool...
+
+Sentiment: 0
+Text:... i try... i try so hard... and i seem to get no credit for it.... wats the prob?
+
+Sentiment: 0
+Text:"- ... wide awake
+
+Sentiment: 0
+Text:.... Dream beautiful.
+
+Sentiment: 0
+Text:.... now only have one roommate....
+
+Sentiment: 0
+Text:..... Im givin myself 5 minutes to turn that frown upside down
+
+Sentiment: 0
+Text:......i cant even say a word right now
+
+Sentiment: 0
+Text:.....why am i so sad??...becuz of u or becuz of the exam??.....i think..becuz of u...
+
+Sentiment: 0
+Text:...?                   ..frustrated?
+
+Sentiment: 0
+Text:...and i feel a shallow breath that squeezes past the fifty pounds of stone laid in my chest.
+
+Sentiment: 0
+Text:...just found out that a friend from my childhood has passed away... May he Rest In Peace.
+
+Sentiment: 0
+Text:...still in the office...
+
+Sentiment: 0
+Text:...that is all
+
+Sentiment: 0
+Text:..sniffles... since I dont get to leave this fucking house...AW GREAT the power's gone. and its getting dark.. Puurfect!
+
+Sentiment: 0
+Text:/ I feel so ... ... Left out
+
+Sentiment: 1
+Text:::sigh:: we didnt win the contest . stupid popularity contest. i had so many votes for her also.  im realy sad. i had such a good feeling
+
+Sentiment: 0
+Text:;( noooo! why? things are so complicated if I spelt that wrong idc
+
+Sentiment: 0
+Text:;( noooo! why? things are so complicated if I spelt thy wrong idc
+
+Sentiment: 0
+Text:" ;) Butterfly Day (Jun 19
+
+Sentiment: 0
+Text:??? what does it means ?
+
+Sentiment: 0
+Text:@ JFK International Airport http://loopt.us/PPYZTQ.t
+
+Sentiment: 0
+Text:@ jonas brothers youtube bein suspended
+
+Sentiment: 0
+Text:@ moval court 4 a traffic ticket..I should b sleeping..aahh.
+
+Sentiment: 1
+Text:- @ work.. || Only 5 hours of it today and then weeeekend!  Can't wait for the long weekend to begin! Gonna get some things done for sure!
+
+Sentiment: 0
+Text:@ahugeproduction Praying for my cold to go to my head because a skunk just sprayed my yard. This is the w.. http://tr.im/n8AI
+
+Sentiment: 0
+Text:" @AriaaJaeger Created from the realms of Light
+
+Sentiment: 0
+Text:@arjunbasu The music was so quiet that he was sure there was a massive hoax being played. On him alone. I.. http://tr.im/mP2j
+
+Sentiment: 0
+Text:@bananarchy_atx sold out of frozen bananas today!   http://mypict.me/2QIM
+
+Sentiment: 0
+Text:@beckobviously i have no car to come to you either.
+
+Sentiment: 0
+Text:@belllareow has disappeared again
+
+Sentiment: 0
+Text:- @billyraycyrus oi tell your daughter to lower her ticket prices we cant afford it in london  my sister cried.
+
+Sentiment: 0
+Text:"- @brooklyn_belle LOL. &quot;cat.&quot; I'm a huge fan. Also
+
+Sentiment: 0
+Text:" @Canuckflack Speaking as a historian
+
+Sentiment: 0
+Text:" @cnnbrk: Farrah Fawcett
+
+Sentiment: 0
+Text:"- @cmedders Yes
+
+Sentiment: 0
+Text:" @CranberryPerson Dear hyper chihuahua
+
+Sentiment: 0
+Text:@danawalker Washington Capitals would be one of #myweakness as well.
+
+Sentiment: 0
+Text:" @daveena looking fwd to a twitpic of selma soon. Cool name
+
+Sentiment: 0
+Text:@desiredeffect
+
+Sentiment: 0
+Text:@dustincary yea I really wanna see a win for him at daytona
+
+Sentiment: 0
+Text:@DWO34 Great to follow @BUTTERFLYWHEEL @DebraWard @chastity_1111 @Cortnee4Christ @DWO34 @DarrenSproat @Sharboubou @mikehanes
+
+Sentiment: 0
+Text:@EightyThreeKid aww I'm sorry bae u kno I be grindin =D BUT I GOT U I SWEAR....I needa go buy an artbook that or construction paper
+
+Sentiment: 0
+Text:"- @fontenot619 Hey you! @PoisonGirl10 How long will you be on? @summerblonde83 Thx! @Nic0pic0 hehehe yw ;) @sevgli Yeah
+
+Sentiment: 0
+Text:" @gigia: &quot;@Mama_K: &quot;Nobody told me Violent Femmes covered Gnarls Barkley! &quot; tks
+
+Sentiment: 0
+Text:@HitzProductions unfortunately I'm coming from NJ the boonies...I gotta drive to the path
+
+Sentiment: 0
+Text:"- @iamfauxpas All gigs this weekend have been cancelled
+
+Sentiment: 0
+Text:" @idvssuperego Started working on a â€œwarm
+
+Sentiment: 0
+Text:@infobotz News = Google Getting Twitterpated? - http://tinyurl.com/oropl7
+
+Sentiment: 0
+Text:@isak is mad at me. #fail
+
+Sentiment: 0
+Text:@jazzgotsoul @liveguy lol nooooooooo!!!
+
+Sentiment: 0
+Text:@jessdelight I just played ur joint two songs ago. Everyone in studio was feeling it!
+
+Sentiment: 0
+Text:- @jonswerens I can't get excited about Conan.
+
+Sentiment: 0
+Text:@LadyKeisha @scorpio510 thanx for the post &amp; the warm wishes.. enjoy ur day!
+
+Sentiment: 0
+Text:@latuacatante17 youu welcomee
+
+Sentiment: 0
+Text:" @LisaBarone If
+
+Sentiment: 0
+Text:@lisad stopped talking to me. I should stalk her. ^^
+
+Sentiment: 0
+Text:"- @littlecharva - you'll be pleased to know I did not have a nice night's sleep
+
+Sentiment: 0
+Text:" @loic Now try sex in bing
+
+Sentiment: 0
+Text:@lushone toolio has court on the 24th...
+
+Sentiment: 0
+Text:" @Mgapmp When you meet @johncmayer tonight
+
+Sentiment: 0
+Text:@MICHAEL_CASTRO is not at 902  thanks!
+
+Sentiment: 0
+Text:- @minxlj hope you get better soon
+
+Sentiment: 0
+Text:@misterdjin i just saw...
+
+Sentiment: 0
+Text:@Mizz_Bliz I slept late too. I wonder y u did...Mhmm. I'm not as hype as u think to leave the country for 2 weeks &amp; 3 days.
+
+Sentiment: 0
+Text:@MIZZWALKER which one???
+
+Sentiment: 0
+Text:@moogyboobles AHHHHHH - bloody Five. Why did they give away House (and me the Sky subscription)?
+
+Sentiment: 0
+Text:@Mp3Jackson Is Upset With Me Lol
+
+Sentiment: 0
+Text:" @mrjoecool well praise the lord 4 gud moods i kno i need 2 b 1
+
+Sentiment: 0
+Text:@Nambu sending my tweets from wrong account although selected the right one.
+
+Sentiment: 0
+Text:" @oliveshoot aw
+
+Sentiment: 0
+Text:big ass kool-aid smile on my face from talkin to my boo...
+
+Sentiment: 0
+Text:bleh... I feel like QQing now.
+
+Sentiment: 0
+Text:blowdrying my hair
+
+Sentiment: 0
+Text:Boo to that
+
+Sentiment: 0
+Text:bored........doing nothing at all....okay...i'm a pretty shy girl...
+
+Sentiment: 0
+Text:BOREDDDD  going to do powerpoint
+
+Sentiment: 0
+Text:boring nite...damn I guess I better get use to this
+
+Sentiment: 0
+Text:boro let me down. It's getting very tight.
+
+Sentiment: 0
+Text:bosco graduation then sara's voice recital
+
+Sentiment: 0
+Text:breakfast with family
+
+Sentiment: 0
+Text:Britains Got Talent on RIGHT NOW ! Good luck Susan Boyle ;)
+
+Sentiment: 0
+Text:bummed to be missing bb Kris's comcast chat. Stupid responsibilities.
+
+Sentiment: 0
+Text:" burnt tongue
+
+Sentiment: 0
+Text:but eatting popcorn so its getting better
+
+Sentiment: 0
+Text:but I don't want a boyfriend for the summer.
+
+Sentiment: 1
+Text:" but I love you
+
+Sentiment: 0
+Text:" but not HIM! He's just a brown nose
+
+Sentiment: 0
+Text:"- but suddenly something happens
+
+Sentiment: 0
+Text:can first see MTV Movie Awards on Thursday!! how sad!!&lt;3&lt;3 but am looking forward to Thursday!! jubii!!
+
+Sentiment: 0
+Text:Can I join you?  {*_*}  KarenWild
+
+Sentiment: 0
+Text:canon powershot s400 you had served me very well. i am sorry that i left u in that car for hottest 3 days... i mourn your loss
+
+Sentiment: 0
+Text:" cant afford to see Angels and Demons
+
+Sentiment: 0
+Text:" can't get motivated
+
+Sentiment: 1
+Text:cant get up to auckland to watch jb 3d movie. im soo gutterd. suppose i have to wait till the dvd release..
+
+Sentiment: 0
+Text:Can't log into my computer at work.  ack!  Got lots to do. IT guru out today. can anyone help me?
+
+Sentiment: 0
+Text:can't make any labels til my computer is fixed..can't fix my computer until I make some money..can't make money unless I sell soap grrrr
+
+Sentiment: 0
+Text:can't sleep -_- this sucks eggs and bacon! I'm suppose to get up early to
+
+Sentiment: 0
+Text:" can't sleep
+
+Sentiment: 0
+Text:Can't Wait For Hills Finale Tonight! â™¥
+
+Sentiment: 1
+Text:" Can't wait for the weekend
+
+Sentiment: 0
+Text:Carrie has a bad eye infection...just waiting for hear from the vets to see if they found anything
+
+Sentiment: 0
+Text:cba i'm revising my french oral fuck it
+
+Sentiment: 0
+Text:- certification test #2 at 8:30 this morning. Feeling much better about this one today
+
+Sentiment: 0
+Text:changin my name to ambergirl66 ;) haha my youtube name and it mathces my background ;)
+
+Sentiment: 0
+Text:-- chilling with my niggahz Haley and Dylan
+
+Sentiment: 0
+Text:chocolate cake with a delicious strawberry yummy yummy
+
+Sentiment: 0
+Text:" church with matt
+
+Sentiment: 0
+Text:-- city tonight for mae!
+
+Sentiment: 0
+Text:cnt even use a single Twitter App!!!!!
+
+Sentiment: 0
+Text:" cold
+
+Sentiment: 0
+Text:come on bitchesss #barakatday #barakatday #barakatday #barakatday
+
+Sentiment: 0
+Text:come party
+
+Sentiment: 1
+Text:" come to manchester while your in england  id love to meet you  did you have fun in germany? its beautiful
+
+Sentiment: 0
+Text:Coming up to the home stretch now with this J/M fic. YAY!!
+
+Sentiment: 0
+Text:computer is being very tempermental at the moment....
+
+Sentiment: 0
+Text:" Congrats to AL's newest state Senator elect
+
+Sentiment: 0
+Text:Content.&quot;made a pac lets see how long it last&quot;
+
+Sentiment: 1
+Text:cookies the first time
+
+Sentiment: 0
+Text:could this night be any worse?
+
+Sentiment: 0
+Text:couldn't find it
+
+Sentiment: 0
+Text:cramps. Drugs--good.
+
+Sentiment: 0
+Text:crap day tat will get craper
+
+Sentiment: 0
+Text:credit card bill. ow my wallet.
+
+Sentiment: 0
+Text:"-- dad came back &amp;asked us to go to anyer till thu! While him
+
+Sentiment: 0
+Text:dads got to turn the power off  caio
+
+Sentiment: 0
+Text:dammit... No more sleep for me.. And on my day off to.. :-/
+
+Sentiment: 0
+Text:" damn gettin it from someone right now
+
+Sentiment: 0
+Text:damn u still haven't been to sleep? and just look them up...i think it was Royalty Beats and City Council
+
+Sentiment: 1
+Text:damn! didnt make on time and the border was closed! drove hr. to toher side of state to make it ti Mexico!.sniff! sniff! tired!
+
+Sentiment: 0
+Text:" Damn
+
+Sentiment: 0
+Text:damn. There has to be something wrong. And its not youu
+
+Sentiment: 0
+Text:Dan won't have off for my birthday.
+
+Sentiment: 0
+Text:" darn you city
+
+Sentiment: 0
+Text:def. i have no studio so ur jus gunna get the lyrics [shrug]  @ExoticBella_
+
+Sentiment: 0
+Text:definately bedtime
+
+Sentiment: 0
+Text:definately just missed my train. smh. fuck!
+
+Sentiment: 0
+Text:depressing day ? http://blip.fm/~6tfp6
+
+Sentiment: 0
+Text:" devstateddd
+
+Sentiment: 0
+Text:did not get to go see UP!! Oh well ended up going to dinner with Blase and Bridget!
+
+Sentiment: 0
+Text:didn't get much sleep again cos of the flippin neighbours! Grr time to work again!
+
+Sentiment: 0
+Text:" Didn't get to do some car scheming tonight. sad. but i did get to mosh while looking like a complete bogan
+
+Sentiment: 0
+Text:didn't go out last night I fell asleep .... I Suck (not literally)
+
+Sentiment: 1
+Text:" Didn't have time updating because was 2 busy enjoying this &quot;love making
+
+Sentiment: 0
+Text:didn't think Netball was on coz it was raining when I got there ... Now no one can take me  Manee is going to b annoyed :|
+
+Sentiment: 1
+Text:Didn't win the twitter contest. BOO
+
+Sentiment: 0
+Text:Dinara lost again in Roland Garros. Why the Safins have to do it hard?
+
+Sentiment: 0
+Text:dinner &lt; bath &lt; workout &lt; run
+
+Sentiment: 0
+Text:Diplomatic husband to his wife &quot;How do u expect me to remember ur birthday when u never look any older?&quot; (via @normaltusker @nehabagoria)
+
+Sentiment: 0
+Text:dissapointed.
+
+Sentiment: 0
+Text:does anybody know the statistics homework *not that I have started* nobody is answering my emails about business studies...
+
+Sentiment: 0
+Text:doesn't know what to get fir a tattoo
+
+Sentiment: 0
+Text:dont feel good ptosis ;)
+
+Sentiment: 0
+Text:Don't forget to vote today! http://bit.ly/3MG0r
+
+Sentiment: 0
+Text:- don't ignore the smell of sizzling skin when you're sitting in the sun!
+
+Sentiment: 0
+Text:dont know whats wrong with me
+
+Sentiment: 0
+Text:Don't like ending the night arguing with the huz in SMF over stupid home improvement crap.
+
+Sentiment: 0
+Text:don't wanna go to work
+
+Sentiment: 1
+Text:@Dayngr TweetWrath I think I just coined a new word where is that twitter dictionary http://tr.im/nyYv
+
+Sentiment: 0
+Text:@DemonicTurtle - You guys have fun last night? I hope you got my text... Pub quizzage tomorrow?
+
+Sentiment: 0
+Text:@DJWiLLGATES
+
+Sentiment: 0
+Text:" @electrograffiti I know but I'll miss having someone to bitch about Brussels trams
+
+Sentiment: 0
+Text:@ELYSIANFIELDZ=CLASS @ELYSIANFIELDZAJ=NO ANSWER @RON_NO4LYFE=WORK @_ETJ= ON THE ROAD @PLUSISAPLUS=N NOLA IM HUNGRY WITH NO1 2 EAT WITH!
+
+Sentiment: 0
+Text:@essentially_me Funny fact: @sween has about 3x his town's population following him on tumblr. How does h.. http://tr.im/lCEl
+
+Sentiment: 0
+Text:" @fernandofelman am gonna miss you too. if it's really gonna be 2-3 years
+
+Sentiment: 1
+Text:- @flopearedmule  Guess that's the end of my love affair with emusic.
+
+Sentiment: 0
+Text:@Grahamapalooza @RoniBryantMusic @Rob_in_Grantham @BananasMel @joetech @joecopas2671 @britespark @r0ckrulez @johnnybeane @bsideofSoccer
+
+Sentiment: 0
+Text:- @hannahradford is taking me to lunch today
+
+Sentiment: 0
+Text:@I_am_delo
+
+Sentiment: 0
+Text:@iggigg too busy to see me in London this evening. What is a boy to do?
+
+Sentiment: 0
+Text:@JeffersonReid is never on Twitter anymore
+
+Sentiment: 0
+Text:@jessdelight: LMAO @liveguy
+
+Sentiment: 0
+Text:@joeschmitt Twitter maintenance on a Friday night? They really haven't been listening if they think we wo.. http://tr.im/nDkq
+
+Sentiment: 0
+Text:" @johnmaeda Are you a .EXE (do-er)
+
+Sentiment: 0
+Text:@joseke Trent Reznor quits Twitter - http://migre.me/281e (via @trabalhosujo)
+
+Sentiment: 1
+Text:- @Kerry350 would love to meet up with yourself and @angeloys but I've made plans already  we'll get another opportunity again soon!
+
+Sentiment: 0
+Text:@krystynchong that's a lovely compliment. thx much!
+
+Sentiment: 0
+Text:@ksymmonds THANKYOU
+
+Sentiment: 0
+Text:@LAFD*UPDATE: SB 110 Fwy x 8th St* Correction: Dead female now '16 y/o'; LAFD complete; CHP &amp; Coroner to handle; NFD - Brian Humphrey###
+
+Sentiment: 1
+Text:@lazoug KStew and MA still together http://bit.ly/cdrcw happy or not?? Lol Im happy if Kristen is happy
+
+Sentiment: 1
+Text:- @libraritarian59 Oh no! @donutspy isn't a good link!
+
+Sentiment: 0
+Text:"- @littlecharva - if the front wasn't black on both
+
+Sentiment: 0
+Text:"- @littlecharva - the full voice control is making me want iPhone 3GS
+
+Sentiment: 0
+Text:@MaMii_THiCKNESS don't do dat. jst tell em 2 suck ur dyck! that always makes me feel better
+
+Sentiment: 0
+Text:- @MelbourneVixens Awesome 4th quarter ladies! Great game
+
+Sentiment: 0
+Text:@monique4ever is messing with my mind.
+
+Sentiment: 0
+Text:@netfart quite the opposite
+
+Sentiment: 0
+Text:"- @nikkofelipe night
+
+Sentiment: 0
+Text:@ohhushaubrey it makes me wanna cry
+
+Sentiment: 0
+Text:" @PAN1F @OregonMJW No
+
+Sentiment: 0
+Text:@PhillMason @Philoscribe Thank you. I am genuinely grateful
+
+Sentiment: 0
+Text:- @PinkElephant73 So pretty much you look like a candy floss machine today
+
+Sentiment: 0
+Text:@prblog @steverubel posterous looks like tumblr for iPhone? looks interesting. can you fold this content .. http://tr.im/nhcv
+
+Sentiment: 0
+Text:Dont Wanna Leave NY Today.
+
+Sentiment: 0
+Text:' dont worry about the for amigos!! there still hangin in there'   &lt;//3
+
+Sentiment: 0
+Text:down to 3k in chips.
+
+Sentiment: 0
+Text:" downloaded one movie yesterday and having some problem with that
+
+Sentiment: 1
+Text:Driving Lizzie to the airport. Say good bye Lizzie.
+
+Sentiment: 0
+Text:-- DT tonight; DT tomorrow day &amp; night   beauty.
+
+Sentiment: 0
+Text:dude I almost just shocked myself. Lesson learned never get outta the shower and think electricity won't hate on ur ass.
+
+Sentiment: 0
+Text:- eaten some steak!!! im feeling good! much better!! missing my lady though
+
+Sentiment: 0
+Text:eating my last wizz fizz
+
+Sentiment: 0
+Text:ECL all day to try to cram all of this organic chemistry back into my head. Final tomorrow. ugh
+
+Sentiment: 0
+Text:eff that bitch at Dunkin Donuts
+
+Sentiment: 0
+Text:" elise and melanie are the SHIZ
+
+Sentiment: 0
+Text:ellie just text me saying &quot;theyre not gona read our text are they? &quot; I WILL SPEAK TO MCFLY!
+
+Sentiment: 0
+Text:emotional.
+
+Sentiment: 0
+Text:" Everton F.C. just got beat in the Finals of the F.A. Cup against Chealea F.C. Oh well
+
+Sentiment: 0
+Text:everton. oh well. lol.
+
+Sentiment: 0
+Text:every fucking day
+
+Sentiment: 0
+Text:every one i was talking to on msn has gone offline  and i won't be able to talk till them tomorrow  i feel lonely :'( x
+
+Sentiment: 0
+Text:- Every so often I catch my own reflection &amp; think .. Now that's one cool son-of-a-b*tch .. today's one of those days
+
+Sentiment: 1
+Text:" every time i leave my room
+
+Sentiment: 0
+Text:everyones drunk but me
+
+Sentiment: 0
+Text:everyones dying or bordeirlne on SVU
+
+Sentiment: 0
+Text:Exams.....help !
+
+Sentiment: 0
+Text:expensive car repairs
+
+Sentiment: 1
+Text:Explore twitter
+
+Sentiment: 0
+Text:F%$&amp;ing Red Wings!
+
+Sentiment: 0
+Text:" failed inspection. Did you know you can pass wo/oven
+
+Sentiment: 0
+Text:failing at everything i should just give up now....
+
+Sentiment: 0
+Text:Famed Michigan bookstore to close its doors http://u.mavrev.com/bc7v
+
+Sentiment: 0
+Text:famliy  going bck homee and have too taKE sister hores riding oh no gonna be a boring day
+
+Sentiment: 0
+Text:Farrah Fawcett dies of cancer at 62. http://bit.ly/OnhYd
+
+Sentiment: 0
+Text:fcukk you!
+
+Sentiment: 0
+Text:fedex will be kicked out of the french open ...
+
+Sentiment: 0
+Text:feelin very pessimistic ):
+
+Sentiment: 0
+Text:feeling a litle sad
+
+Sentiment: 0
+Text:feeling all sad leaving mumbai...
+
+Sentiment: 0
+Text:feeling down. reality is setting in. i know i should be beyond this point. why am i still here? i want to follow my dreams but im scared
+
+Sentiment: 0
+Text:Feels bad for Cali... poor thing.
+
+Sentiment: 0
+Text:female model tortured by prince http://tinyurl.com/mbmanohara
+
+Sentiment: 0
+Text:ferrets are much cooler than fishes.
+
+Sentiment: 0
+Text:FIELD TRIP TODAY  LEAVING NOW :3
+
+Sentiment: 0
+Text:"- finally at home ; bout to napp
+
+Sentiment: 0
+Text:Finally managed to check the Euromillions results......NO ï¿½89 million for me I'm afraid :[   Oh well...you gotta be in it to win it!
+
+Sentiment: 0
+Text:" finding out the Hollywood Video i frequent
+
+Sentiment: 0
+Text:@PurpleHazeYobi Hope you had fun with &quot;Lisa&quot; the Jillian replacement lol... I was busy getting @_rosiecakes drunk! lol I &lt;3 u both... xo
+
+Sentiment: 0
+Text:@richietachie i missed all..imma call u tomorrow..and reduce the number of Qs by tomorrow pls...i have a phobia for that lol seriously
+
+Sentiment: 0
+Text:@rickswift #followfriday these ppl or catch crabs @KarlKleese @lpjdesign  @LostZombies @pinkraygun @BittenbyBooks @hippojuicefilm @zazzle
+
+Sentiment: 0
+Text:" @SandyU @MightyBoognish @kittyireland It's light with a bit of punch. Mission=San Francisco gin
+
+Sentiment: 0
+Text:" @Savage_Death55 I am super emo about stupid stuff rn
+
+Sentiment: 0
+Text:@sf_giants bullpen loses lead
+
+Sentiment: 0
+Text:@ShawnaShameless &amp; @killavilla if anyone else said something it's to you too.
+
+Sentiment: 0
+Text:@Spiral_galaxy @YMPtweet i mean we have the best religion the only thing that we have to do is to follow it the right way
+
+Sentiment: 0
+Text:@StephenHDunn bows out of the Raid. &quot;Dunn&quot; his back Inn. Speedy recovery mate.
+
+Sentiment: 0
+Text:@stevijean yeahuhh
+
+Sentiment: 0
+Text:" @sylvanus is having the worse day ever. Boss is spazzing out at work and finally done with a late night photo shoot
+
+Sentiment: 0
+Text:@tahninial just called me a cheeseburglar. He made me sad
+
+Sentiment: 0
+Text:@taylorswift13 didnt win the first award she was nominated for. Oh well.. Shes tied for most nominations.
+
+Sentiment: 0
+Text:" @Tellman says
+
+Sentiment: 0
+Text:- @TendaiJoe well none of us are getting out of here alive but we would like to stay a while.I wish people would stop killing each other
+
+Sentiment: 0
+Text:@the_prodigy AND @NKOTB in Boston 2day Boo!! Roll on summer already!!! x
+
+Sentiment: 0
+Text:@therealglambert sorry...got carried away with gossip  on another note: Pass on a Hippo Birdie &amp; a big koala hug to KRIS for me! xoxo K
+
+Sentiment: 0
+Text:" @thesmartmama I have no office. I know this is hard to believe
+
+Sentiment: 0
+Text:@ThisChicsFlava: @DaPrbmChild lmao&lt;3
+
+Sentiment: 1
+Text:@tommcfly hi when ur back &amp; when ur next in mk i am gona need 1 of your really good hugs that only you and my friend liam can give ok.
+
+Sentiment: 0
+Text:" @tweetdeck lost my groups
+
+Sentiment: 0
+Text:@WeeLaura Guardian UK: 12 students reported killed in crackdown after violent clashes in #Iran http://bit.ly/wHLBv
+
+Sentiment: 0
+Text:" @YMPtweet @Spiral_galaxy  but so badly no one does
+
+Sentiment: 0
+Text:" @zeldman just said on Flickr re a Mac that wouldn't install OS X (yes): &quot;As user-focused design goes
+
+Sentiment: 0
+Text:__cheer up emo kid.
+
+Sentiment: 0
+Text:~ LVATT IS COMMING!!! ~
+
+Sentiment: 0
+Text:= next few days
+
+Sentiment: 1
+Text:=] happy sunday =]
+
+Sentiment: 0
+Text:1 dinger in and I so regret popping that pill...
+
+Sentiment: 0
+Text:" 1 month of bed by 1:30AM
+
+Sentiment: 0
+Text:2 days I haven't tlkd 2 mi amor..im kinda stubborn when it comes 2 my bf..I will NOT call..not a bugaboo type
+
+Sentiment: 0
+Text:2 hear about jon n kate...couples should steer clear of those reality shows! just say no!
+
+Sentiment: 0
+Text:--- 2009 NCAA National Softball Champions UW Huskies
+
+Sentiment: 0
+Text:" 2nd item did not arrive
+
+Sentiment: 0
+Text:Finished my paper!!!!!!!!!! But............   smh
+
+Sentiment: 0
+Text:first days are always good..wish my dentist gave me more hours though
+
+Sentiment: 0
+Text:fone off....cant talk 2 my love....imu marcus!!!!!
+
+Sentiment: 0
+Text:" for the fact that *I* didn't get any work done
+
+Sentiment: 0
+Text:" forgot XBL was off today
+
+Sentiment: 0
+Text:found a mosquito bite.  (Those tend to get really swollen and red for me)  Distracting myself with caffeine
+
+Sentiment: 0
+Text:Found a way to make this Private woot woot
+
+Sentiment: 0
+Text:Four more fake people added me. Is this why people don't like Twitter?
+
+Sentiment: 0
+Text:frank iero should be the sexiest vegetarian 2009.
+
+Sentiment: 0
+Text:" french lost
+
+Sentiment: 0
+Text:fuck man .i hate this. =O. work suckss :'(
+
+Sentiment: 0
+Text:" fuck you
+
+Sentiment: 0
+Text:"- fuck
+
+Sentiment: 0
+Text:fuck. I am an ugly person.
+
+Sentiment: 0
+Text:fucking rur mom
+
+Sentiment: 0
+Text:"- Fwd: Good Morn
+
+Sentiment: 0
+Text:gah. so much less ok than i was trying to tell myself i was.
+
+Sentiment: 0
+Text:GCSE's clearly suck.
+
+Sentiment: 0
+Text:- Geez Chelsea already scored against Everton   1-0
+
+Sentiment: 0
+Text:gerald lost a friend............idk what to say........this is like day 2 of crazy events.......
+
+Sentiment: 0
+Text:getting &quot;goodbye&quot; e-mails from #Iran #iranelection
+
+Sentiment: 0
+Text:-- getting a Mani + Pedi with the husband!
+
+Sentiment: 0
+Text:getting a webcam today.
+
+Sentiment: 0
+Text:"- Getting ready to leave for Spring City
+
+Sentiment: 0
+Text:- getting ready to watch the Sprint Cup boys try to tame the concrete Monster Mile! hopefully tires won't be too much of an issue!
+
+Sentiment: 0
+Text:girls girls. don't fight! you both can have me! there's enough to go around!
+
+Sentiment: 0
+Text:gnight my phone sucks Bleh
+
+Sentiment: 0
+Text:-- g'night tweeties! &lt;3 talk to you all in the AM  - @damesmash haha you have work in the AM
+
+Sentiment: 0
+Text:go away migraine!!! you are not welcome!!!
+
+Sentiment: 0
+Text:go away rain.
+
+Sentiment: 0
+Text:go follow my personal twitter! @nikkidallasen
+
+Sentiment: 0
+Text:Go Wings! FTW!
+
+Sentiment: 0
+Text:- God i'm up early. Hayley still asleep but today is party day so i'm getting stuff ready.  x
+
+Sentiment: 0
+Text:going home to see my baby   [dont be ashamed of your faith]
+
+Sentiment: 0
+Text:going out for dinner with the family
+
+Sentiment: 0
+Text:going to bed
+
+Sentiment: 0
+Text:going to bed.
+
+Sentiment: 0
+Text:- going to bed.
+
+Sentiment: 0
+Text:going to get piï¿½a colada mix to wallow in my sorrows
+
+Sentiment: 0
+Text:" going to have such a bad day
+
+Sentiment: 0
+Text:going to lay down. Fuck tonight
+
+Sentiment: 1
+Text:Going to London Expo this weekend  Can't wait !
+
+Sentiment: 0
+Text:going to master classes without my car... I miss you my VW!!!
+
+Sentiment: 0
+Text:"- goingg to sleep  school
+
+Sentiment: 0
+Text:gonna miss jesse mccartney's live stream from kiss concert cuz i have to babysit. figures they dont have internet klfjhadsklfhk fml
+
+Sentiment: 0
+Text:" Gonna WoW for a bit. Later
+
+Sentiment: 1
+Text:good luck!!
+
+Sentiment: 1
+Text:good morning lovely!
+
+Sentiment: 1
+Text:good morning/afternoon. Things will be great today.
+
+Sentiment: 0
+Text:@only1fe FF @TommyBlack @djksly @Wordsmithmusic&lt;--FF them!Tommy- CHi ALLday K-sly..FLY!!JUNCITY! MANHATTAN!ATL OWWW! ; ) wordsmith fiyah!
+
+Sentiment: 0
+Text:@pageoneresults Online reality blogging &amp; tweets... My Life On the Social Media D-List
+
+Sentiment: 0
+Text:"- @paul_a_smith - ooh
+
+Sentiment: 0
+Text:"- @PJ - @alexjreid's family friend who died is also my old art teacher  very sad
+
+Sentiment: 0
+Text:@rabbitroodle  I think I've won the battle over the impending *crud*. Enjoy your drive this AM
+
+Sentiment: 0
+Text:- @rainboweffect Crickey can't think that far ahead - think getting to 2009 followers is pretty ambitious
+
+Sentiment: 0
+Text:" @reidstott Coffee keeps me running. In fact
+
+Sentiment: 0
+Text:@remysoon
+
+Sentiment: 0
+Text:@saharabloom got off lazy bum and did Chalean burn intervals. I turned a fascinating shade of puce. Wondered where all the oxygen went .
+
+Sentiment: 0
+Text:- @samshafer I bookmarked it and will check it out after I get some sleep. Thanks Sam!
+
+Sentiment: 0
+Text:@shanedawson i'm sad now i leave for 2 hours and u didn't even miss me  anywho um i still luv u and whats with getting a frozen turkey?
+
+Sentiment: 0
+Text:@ShannonHerod &quot;It is always your next move.&quot; Napoleon Hil http://tr.im/mR0u
+
+Sentiment: 0
+Text:@sonjatweet ur hot
+
+Sentiment: 0
+Text:" @ssandall That's it! Removing bots is like weeding a garden. Not fun
+
+Sentiment: 0
+Text:@TheNotoriousJEN
+
+Sentiment: 0
+Text:@tjwriter Hubby has Briso on DVD.  I haven't seen it all yet but I enjoy it. I saw Army of Darkness and Evil Dead because of Hubs too.
+
+Sentiment: 0
+Text:"- @ToothFairyHeavn What a considerate Tooth Fairy you are
+
+Sentiment: 1
+Text:' @vangeest We are perfectly on schedule' - Nobody is waisting time today  (Don't mention the Sun again;) Dedicated audience
+
+Sentiment: 0
+Text:" @yhf My twenties: Look
+
+Sentiment: 0
+Text:" @YMPtweet @Spiral_galaxy but so badly no one does
+
+Sentiment: 0
+Text:" @Zaius13 If it weren't for unspeakable things
+
+Sentiment: 0
+Text:_BellaCullen18_  i've been ok just got through crying with leah * frowns at the thought* we were talking about our dead fathers
+
+Sentiment: 0
+Text:~ cooking!!!
+
+Sentiment: 0
+Text:~ ncis!!!
+
+Sentiment: 0
+Text:- 1 follower WOW!
+
+Sentiment: 0
+Text:100 followers!  YAY!
+
+Sentiment: 0
+Text:11:11 makee a wishhh ;)&lt;3 GOODNIGHT
+
+Sentiment: 0
+Text:11:11. I know what I'm wishing for!
+
+Sentiment: 0
+Text:- 155 days until the JB'concert in Milan!!!!I'm guarding my tickets
+
+Sentiment: 0
+Text:" 2 days of this month left
+
+Sentiment: 0
+Text:2 more weeks of classes and 1 week of exam blockk then HOLIDAYS!!! holland and then on to australia x
+
+Sentiment: 0
+Text:2 weeks!!!!
+
+Sentiment: 0
+Text:21 days of no twittering and i'm back. -.- i think.
+
+Sentiment: 1
+Text:2morrow last day of skool! i'm gonna miss everyone thats leaving and specially you mel mel! bye bye! good night twitters!! &lt;3
+
+Sentiment: 0
+Text:30 lbs lost since Feb. Still have a lot more to go.
+
+Sentiment: 0
+Text:" 4 more minutes of lunchtime left
+
+Sentiment: 0
+Text:" Good Night ! Okay
+
+Sentiment: 0
+Text:Good night! Arrgghhhh 5-2 B.P. Do work boys!
+
+Sentiment: 1
+Text:good to hear from you
+
+Sentiment: 1
+Text:good weekend
+
+Sentiment: 0
+Text:Goodbye CWG of my life.
+
+Sentiment: 0
+Text:goodbye hair length
+
+Sentiment: 0
+Text:- goodnight  ! math&amp;spanish finals tomorrow. spanish should be easy. woo.
+
+Sentiment: 1
+Text:gooooood morning my twitter friends!  Have a nice sunday
+
+Sentiment: 0
+Text:Gossip girl tonight!!!
+
+Sentiment: 0
+Text:got burned really bad due to constantly being too wet to reapply sunscreen
+
+Sentiment: 1
+Text:Got Escala's new album now.  T'is very good
+
+Sentiment: 0
+Text:Got new photoshop magazine but I need my Dad's portable CD drive to use the CD with the pics on it D: I think I'm stuck there tomorrow
+
+Sentiment: 0
+Text:got sunburnt today. another day in paradise! been for 2 swims in the ship's pool!
+
+Sentiment: 0
+Text:got to work at 7:00am! ughhhh longgg day ahead of me!
+
+Sentiment: 1
+Text:gotta love her. glad she had fun. looking forward to the beach w/ her!
+
+Sentiment: 0
+Text:" Graveyard charged my card twice (one correct total
+
+Sentiment: 0
+Text:great  just fucking great
+
+Sentiment: 1
+Text:- Great day people-watching in Berkeley with my bro  I love him.
+
+Sentiment: 0
+Text:Great Falls Tribune story  only talks of scouts in title. Story's theme is Be prepared when back country  traveling. http://bit.ly/8cRXR
+
+Sentiment: 0
+Text:great my dad locked himself out of his car n its on... N we are 5 hours from home
+
+Sentiment: 0
+Text:great nite
+
+Sentiment: 0
+Text:" Great tights
+
+Sentiment: 0
+Text:" great
+
+Sentiment: 0
+Text:Great.  ? http://blip.fm/~7df6m
+
+Sentiment: 0
+Text:Great...rosie was sooo close to getting her long overdue 'rosie day' but now has to wait.....til another day...sadness
+
+Sentiment: 0
+Text:- grr you've changed. i don't like it. you haven't called me momo in a week
+
+Sentiment: 0
+Text:" grrrrr. why can't they just go away for like 2 days! haha. this is stupid. i have to pack for mexico
+
+Sentiment: 0
+Text:gud bye laptop!! damn!!my mom will confiscate my laptop on june 23!!( soo saadd!!
+
+Sentiment: 0
+Text:guess it's gonna be a lonely night for me.. Someone save me please!
+
+Sentiment: 0
+Text:guess who im missing
+
+Sentiment: 0
+Text:gutted i hope it comes soon !
+
+Sentiment: 0
+Text:guys are pricks. gonna have an early night and cry til i fall asleep. fuck you all.
+
+Sentiment: 0
+Text:h dont know who to go to teh movies with Sir. Lolz alot ^o^
+
+Sentiment: 1
+Text:" had a good night
+
+Sentiment: 1
+Text:had a Really good night!!! Stoked for things to come!!!
+
+Sentiment: 0
+Text:had an ok day. it went by fast.
+
+Sentiment: 0
+Text:Had to buy a pair of wellies. Still in denial that it's gonna rain at Download.
+
+Sentiment: 0
+Text:had to buy corney ass capri&quot;s ughhhhhhhhhhh now im hungry
+
+Sentiment: 0
+Text:had to cancel a great day I had ahead of me today.....
+
+Sentiment: 0
+Text:had yo come home early cos i ran out of money I WANT A FUCKING JOB AND THERE NONE OUT THERE FUCK FUCK FUCKITY FUCK FUCK
+
+Sentiment: 1
+Text:hah! @jonloverobot that was awesome. just listened to you. pretty cool!  i love for crying out loud.
+
+Sentiment: 0
+Text:haha I really did and I'm about to call music unlimited tomorrow for  Simon..tryin to be like ROD ;)
+
+Sentiment: 0
+Text:6........tomorrow's  a new day...
+
+Sentiment: 0
+Text:63/100 for my MSC120 Assignment that was incomplete!!!! Relief
+
+Sentiment: 0
+Text:a baby fell flat on his face and started bawling because of me  forgot that he is wobbley!
+
+Sentiment: 0
+Text:" A doctor who performed late-term abortions in the US
+
+Sentiment: 0
+Text:" a kid at my school got an internship at a photography studio... im going to sleep
+
+Sentiment: 0
+Text:About to leave Newcastle ):
+
+Sentiment: 1
+Text:actually I might be crazy 'cause I love my job.
+
+Sentiment: 1
+Text:" actually quite happy toady. apart from the agony all over my body
+
+Sentiment: 0
+Text:ah belhblehbleh the familys watching a moviee and yes imm beingg a computerr nerd :p and i wish jerkface would wake up onee daaayyyy!!!!
+
+Sentiment: 0
+Text:ah I can't stop crying I hate seein my dog having attacks
+
+Sentiment: 0
+Text:ah well im sure we'll be fine
+
+Sentiment: 0
+Text:ahhh I have no more tissues and I look like a blow fish from crying.....ahhh I'm stressed the fuck out
+
+Sentiment: 0
+Text:ahhh this sucks
+
+Sentiment: 0
+Text:ahhhhh this is the worst thing to ever happen to me
+
+Sentiment: 0
+Text:ahhhhhh supernatural S4E22 is finished!!!! I like to watch Season 5 now. make the season 5 already c'mon!!!
+
+Sentiment: 0
+Text:alex gaskarth is so amazing and to shop with him would be great. but nooo we have to go to the movies to go see stupid hannie montannie!
+
+Sentiment: 0
+Text:" All I want to do is watch an awesome new (to me) show
+
+Sentiment: 0
+Text:all my bestfriends are leaving!
+
+Sentiment: 0
+Text:all my friends seem to be with kittens or eating ice cream. this monday is for the birds.
+
+Sentiment: 0
+Text:all my texts were deleted by landi :/ i miss certain ones a lotttt
+
+Sentiment: 0
+Text:all my work is completed and i'm passing everything. now all i have to stress over is exams. u.s. one tomorrow.  &lt;33 4 days.
+
+Sentiment: 0
+Text:all that carpet cleaning for nothing... the carpets smell bad now at the old house. We have to call a carpet cleaner.
+
+Sentiment: 0
+Text:all the firends i make in the airport has to leave before i do...
+
+Sentiment: 0
+Text:all the messages i saved in my voicemail box are gone! Now i have nothing to listen to..
+
+Sentiment: 0
+Text:alllways raining in aberdeen here i come sunnnnshine
+
+Sentiment: 1
+Text:" alright back onto being bored. going to bed any time soon
+
+Sentiment: 0
+Text:am I a loner?
+
+Sentiment: 0
+Text:Am racit...
+
+Sentiment: 0
+Text:Am wondering why 'friends' are telling me me to shut it - when actually i have barely said anything...
+
+Sentiment: 0
+Text:amy hit me cos i call her drink lady
+
+Sentiment: 0
+Text:and a shocker for those who left sytycd tonight. One run cut too short.
+
+Sentiment: 0
+Text:and hug@ladypn: &quot;Is there a waiting line to get into Club Blip? ;) &quot; ? http://blip.fm/~7d2a5
+
+Sentiment: 0
+Text:and I dunno why but with you I'd dance in a storm in my best dress.
+
+Sentiment: 0
+Text:AND maths exam tomorrow; just to make life even bettter....
+
+Sentiment: 0
+Text:and our second flight is canceled.
+
+Sentiment: 0
+Text:- Annnnnd @CarlaNix 's website has LAUNCHED :: http://carlaynix.com :: Bookmark it &amp; check back often. Itinerary 2 b added soon!
+
+Sentiment: 1
+Text:- another dbl shift tomorrow.. on Father's day  which means: minimal time with gpa. the illest man ever :[
+
+Sentiment: 0
+Text:" 2pm
+
+Sentiment: 0
+Text:3.2 PTR possibly this week. That makes me a sad panda. I spent 4k gold total to level my enchanting and I won't be able to farm titanium.
+
+Sentiment: 0
+Text:30stm playin at london tommorow &amp; only london in england
+
+Sentiment: 0
+Text:4's reallyy??? #PakCricket
+
+Sentiment: 0
+Text:- 5 days to the musical  i'm gonna dance wow WOW wow it's gonna be something like High School Musical ihihih xoxo Petia
+
+Sentiment: 0
+Text:60 followers NOW!  .....yesterday 62
+
+Sentiment: 0
+Text:68 new results in 5 minutes; replies for @DavidArchie.  He'll never get a chance to reply.
+
+Sentiment: 0
+Text:- 8 DAYS TILL SCHOOL HOLIDAYS END
+
+Sentiment: 0
+Text:- a bit depressed after checking the local weather forecast - 9 out of the next 10 days are forecasted to be rainy. The tenth is cloudy.
+
+Sentiment: 0
+Text:a goodmorning back at cha @moovmnt
+
+Sentiment: 0
+Text:a lot of hacks is garena server but the games there are fun
+
+Sentiment: 0
+Text:a perfect weekend
+
+Sentiment: 0
+Text:a pony's clop-clopping down the hill (heard him long before i saw him). this would so not happen in Brooklyn barring a cop on horseback.
+
+Sentiment: 0
+Text:" adam ong
+
+Sentiment: 0
+Text:adorei zoffitcha hj... dps ponho foto no tpic. GOODNIGHT TWITTERS =]
+
+Sentiment: 0
+Text:after next wednesday i wont be able to snuggle with lilly when i go to bed. she's the BEST dog ever.
+
+Sentiment: 0
+Text:" After turning my fan club into a religion
+
+Sentiment: 0
+Text:again..cause india is definitely out.. ==
+
+Sentiment: 0
+Text:Ah well I'm having enough fun playing with 3.0 which I got LEGALLY. *Shakes his head at people who got it illegaly*
+
+Sentiment: 0
+Text:"-- ahhh! No
+
+Sentiment: 1
+Text:aint i supposed to be happy ...
+
+Sentiment: 0
+Text:" alas
+
+Sentiment: 0
+Text:" Alexa isn't feeling well. Daddy went and picked her up from Gram's house
+
+Sentiment: 0
+Text:" all done.
+
+Sentiment: 1
+Text:all good things must come to an end.. bye bye Hamptons
+
+Sentiment: 0
+Text:All i can say is DAM IT TO HELL!!!!!!!!!!!!
+
+Sentiment: 0
+Text:all I have to say is sorry =\ &amp;&amp; even though were still togther I feel so far apart...
+
+Sentiment: 0
+Text:" all smiles. im fairly hapy with what has happened yesterday
+
+Sentiment: 0
+Text:- all the snow is gone... that didn't take long...
+
+Sentiment: 1
+Text:all this time i thought my electric blanky was turned on TURNS out it wasnt FAIL
+
+Sentiment: 1
+Text:almost done wit the painting tired as crap. Sleep time.&quot;in love with u&quot;- ziggy marley and erykah badu
+
+Sentiment: 0
+Text:almost done with my dark roast with double espresso....need more....zooooooooom #imjustsayin
+
+Sentiment: 0
+Text:-- almost wishing i didnt volunteer to teach VBS this yr. i do need a break
+
+Sentiment: 0
+Text:Alone and invisible
+
+Sentiment: 0
+Text:aloneeeeeeeee
+
+Sentiment: 0
+Text:" also made a masterful roast dinner
+
+Sentiment: 0
+Text:Alton towers with the school on Friday  although we need to leave at 5am
+
+Sentiment: 0
+Text:am 200 updates in Twitter #stats
+
+Sentiment: 0
+Text:am i too immature for a 16 year old? I just really like Ninja ponies..that have only 3 legs.
+
+Sentiment: 0
+Text:haha. Someone i don't even know made me laugh. ryan ross = win.
+
+Sentiment: 0
+Text:hair looks dorky. Oh well.
+
+Sentiment: 0
+Text:hand ball again by wynne.. Dc scores on penalty.. BS 3-3
+
+Sentiment: 0
+Text:Hanging out with Steven Mohler on Sunday! ah :]
+
+Sentiment: 0
+Text:hangover not good..
+
+Sentiment: 1
+Text:happy birthday to me and mom! Why am i always the first one up? So here i am falling off the bed cuz someone is a bed hog
+
+Sentiment: 1
+Text:happy face.
+
+Sentiment: 0
+Text:happy hour ended! Bummer in the summer. I guess I have to ride my bike back to carson.
+
+Sentiment: 1
+Text:happy that its sunny
+
+Sentiment: 1
+Text:happy to see him
+
+Sentiment: 1
+Text:happy with the way thing are goingg
+
+Sentiment: 0
+Text:" Happy
+
+Sentiment: 1
+Text:happy. spending time with mum
+
+Sentiment: 0
+Text:harsh shisha
+
+Sentiment: 0
+Text:has got no phone fr cupla days so facebook me (inbox) gt no laptop only ifone wf no sim x
+
+Sentiment: 0
+Text:- Has Just Got Up &amp;+ Is Listening To Good Charlotte
+
+Sentiment: 0
+Text:- has obvisously just lost the game yet again...
+
+Sentiment: 0
+Text:has something very special in mind &lt;333
+
+Sentiment: 0
+Text:hate my life..hate coming home..
+
+Sentiment: 0
+Text:hates the fact that she has to work instead of going dress shopping with my cousin!!!
+
+Sentiment: 0
+Text:- hates waiting and equally hates job hunting!
+
+Sentiment: 0
+Text:have a headache...
+
+Sentiment: 0
+Text:Have a Nice Day!
+
+Sentiment: 0
+Text:have a nice day... cause i will!
+
+Sentiment: 0
+Text:Have sooo much to revbise I don't even get to go church. Boo to exams
+
+Sentiment: 0
+Text:have to get up a 3:00am tomorrow
+
+Sentiment: 0
+Text:have to take car to mechanic fml.  #talesfrmsurbs
+
+Sentiment: 0
+Text:havent updated in forever
+
+Sentiment: 0
+Text:havin a bad hair day ; an the weather is not helpin my mood at all !! ..
+
+Sentiment: 0
+Text:havin fun my friend?
+
+Sentiment: 0
+Text:- having a bad day !
+
+Sentiment: 0
+Text:" Having a terrible day
+
+Sentiment: 0
+Text:having the biggest thought right now
+
+Sentiment: 0
+Text:having to get tooth pulled - on the bright side problem solved
+
+Sentiment: 0
+Text:- having to stay up and watch my sister throw up. she is so very hammered. and this is really not fun...  long night for me. hmmm.
+
+Sentiment: 0
+Text:he didn't answer and his voicemail box is full.  Dammit.
+
+Sentiment: 0
+Text:"- Healthy Butcher
+
+Sentiment: 0
+Text:Heard it on Pandora because that site is THAT cool http://bit.ly/C5Ja3
+
+Sentiment: 0
+Text:hee hee. your so weird. and i did NOT shiver.
+
+Sentiment: 0
+Text:Heroes is losing it's momentum ): come on writers pick it up!!!
+
+Sentiment: 0
+Text:" Hey Terri! The game isn't too expensive
+
+Sentiment: 0
+Text:hey...i'm back..if someone want to talk.. here i am.
+
+Sentiment: 0
+Text:hiccuuppsss
+
+Sentiment: 0
+Text:" his gone for a month in the middle of winter... first day and im lost already... 1 down
+
+Sentiment: 0
+Text:History Final Review..Still Not Done.
+
+Sentiment: 0
+Text:hm.. Can I be the nut?
+
+Sentiment: 0
+Text:hmm emotionless
+
+Sentiment: 0
+Text:hmph...text me...
+
+Sentiment: 0
+Text:Home finally.Making fettuccine and relaxing my sore feetsies!
+
+Sentiment: 0
+Text:Home sweet home (: finally back XD
+
+Sentiment: 0
+Text:homeish lol..hella fun day  .. Thanks leela thai  .. Thanks paul.. Thanks michelle mufid Cristina kittykat  .. Awkward moose ?
+
+Sentiment: 0
+Text:another year older
+
+Sentiment: 0
+Text:any comment on the latest star trek movie? is it nice?
+
+Sentiment: 0
+Text:" any day now
+
+Sentiment: 0
+Text:Anyone have any connections to getting SOLD OUT tix for Duran Duran at The Fillmore???!
+
+Sentiment: 0
+Text:AP IMPACT: Alternative medicine goes mainstream http://u.mavrev.com/8kn0
+
+Sentiment: 1
+Text:-- Apparently I have to wait til June 5  I want some of Paolo's Candy nooooooooow
+
+Sentiment: 0
+Text:apple counting the kama sutra as objectionable/abscene? http://bit.ly/bHJG8
+
+Sentiment: 0
+Text:apple counting the kama sutra as objectionable/obscene? http://bit.ly/bHJG8
+
+Sentiment: 0
+Text:Apple has delayed the release of OS3! http://bit.ly/2lwpll
+
+Sentiment: 0
+Text:Apple store... BBL ~
+
+Sentiment: 0
+Text:" are selena gomez &amp; taylor lautner going out
+
+Sentiment: 0
+Text:Are you going to be taking photographs tonight??? :O
+
+Sentiment: 1
+Text:ARRRRRRGGGH!   I cant wait till next weeeeeeeeek!
+
+Sentiment: 0
+Text:" at david eddings dieing
+
+Sentiment: 0
+Text:AT LAST!! Successful deployment complete.  Soo.....what do I do now?
+
+Sentiment: 0
+Text:At least one dead in shooting by militia at potesters in Azadi Sq in Tehran: http://tinyurl.com/nsvx6q #IranElection
+
+Sentiment: 0
+Text:at tegus x 2 days only
+
+Sentiment: 0
+Text:- at the apple store again today because Jonathan did not wake up early and now needs his phone.
+
+Sentiment: 0
+Text:at the clouds and the threat of rain in Savusavu!
+
+Sentiment: 0
+Text:at work until 4
+
+Sentiment: 0
+Text:At work.. having a postive attitude!!
+
+Sentiment: 0
+Text:Athens landmark Georgia Theater  on fire... http://bit.ly/EOL7s
+
+Sentiment: 0
+Text:" aw
+
+Sentiment: 0
+Text:aw my loopt didn't upload the pic. I wanted 2 show u guys the art.
+
+Sentiment: 0
+Text:awesome
+
+Sentiment: 1
+Text:awesome day! soooooooooooooo happy &lt;3
+
+Sentiment: 0
+Text:" awesome! Man
+
+Sentiment: 0
+Text:Awesome. &lt;3 TEDDY! &lt;3
+
+Sentiment: 0
+Text:aww dont make me blush!
+
+Sentiment: 0
+Text:aww i already did
+
+Sentiment: 0
+Text:aww I just saw a decapitated baby dear on the side of the road that made me sad.
+
+Sentiment: 0
+Text:awww i hope u can get it.
+
+Sentiment: 0
+Text:awww man. This suckd
+
+Sentiment: 0
+Text:Baby strampelt fast im Takt (New Soul - Yael Naim)
+
+Sentiment: 0
+Text:back from native...
+
+Sentiment: 0
+Text:" back here
+
+Sentiment: 0
+Text:back pain again!! calls for another therapy (annoyed) http://plurk.com/p/13c7l9
+
+Sentiment: 0
+Text:back to sch tmr
+
+Sentiment: 0
+Text:Back to school on Monday...Well I did get an iPod Touch. @shmuxel + @randomized180 See yah tomorrow then I guess
+
+Sentiment: 0
+Text:bad day
+
+Sentiment: 0
+Text:bad day already
+
+Sentiment: 0
+Text:bad headache
+
+Sentiment: 0
+Text:bad mood. work soon. 9 hour shift wtf. sometimes i wish i had an another job.
+
+Sentiment: 0
+Text:bad night bad times i hate the police and alcohol. and btw katie cw scores are added on they mean very little.
+
+Sentiment: 0
+Text:" bah
+
+Sentiment: 0
+Text:bandom has spoiled me rotten and now I'm feeling very emo. WHY SO FEW GOOD FRUITS BASKET FICS WHY.
+
+Sentiment: 0
+Text:" battery is low boooooooo in Palm Springs
+
+Sentiment: 1
+Text:hope you all are having a good day/night.............. :-D
+
+Sentiment: 1
+Text:hoping that the 3rd time is lucky and my Formal photos can up load on facebook without a crash.
+
+Sentiment: 0
+Text:How 2 get OCDer 2 eat more than 1-2 meals a day? We could take him off meds &amp; watch him slowly fall apart again but he'd eat like a horse
+
+Sentiment: 0
+Text:how can someone hurt someone soo much ........aspecially to family!!!!
+
+Sentiment: 0
+Text:how horrible  R.I.P Georgia Theater
+
+Sentiment: 0
+Text:HOW is this possible? I demand a justification. No way can I stand a day of this at work tomorrow.
+
+Sentiment: 0
+Text:how much longer is this going to go on?
+
+Sentiment: 0
+Text:how much rain can we take?
+
+Sentiment: 0
+Text:http://bit.ly/t8sGF  I hope she starts taking care of herself &lt;3
+
+Sentiment: 0
+Text:http://img207.imageshack.us/my.php?image=wpcl10670s.jpg her songs are so perfect.
+
+Sentiment: 0
+Text:http://tinyurl.com/llb9vf Poor boy was autistic &amp; loved water. Wish I could say he died with what he loved. But drowning's awful.
+
+Sentiment: 0
+Text:hurt my foot whilst doin exercise.... I got cramp and now it hurts if it has too much pressure on it...
+
+Sentiment: 0
+Text:i actually do nat like my life at times like this  want to actually jst go and throw myself off a bridge.
+
+Sentiment: 0
+Text:i agree @OasisStasis
+
+Sentiment: 0
+Text:i am back
+
+Sentiment: 0
+Text:" I AM BORED
+
+Sentiment: 0
+Text:i am crying you all a river...
+
+Sentiment: 1
+Text:I am falling in love with Stockington - such a witty wise meow meow!! ^^
+
+Sentiment: 0
+Text:i am musical today!
+
+Sentiment: 0
+Text:I am not awake yet and I don't get to workout until this afternoon because I have to go to the Nashville airport.
+
+Sentiment: 0
+Text:" i am so sick of this. i have chest pains
+
+Sentiment: 1
+Text:i am very happy today! and i don't why?
+
+Sentiment: 0
+Text:I ate too much. Now I can't sleep because I feel sick...and there are a lot of sirens.
+
+Sentiment: 0
+Text:i beat you video on youtube
+
+Sentiment: 0
+Text:"- I can almost hear my wallet saying &quot;I'm here
+
+Sentiment: 0
+Text:I can already tell that it's going to be one of *those* days...
+
+Sentiment: 0
+Text:I can find my eye shadow pursh!! :'(
+
+Sentiment: 0
+Text:I can't deal with this again...
+
+Sentiment: 0
+Text:- I can't find my name badge
+
+Sentiment: 0
+Text:i cant get kristen srewart to add me lol she prob  thinks im a stalker lol
+
+Sentiment: 0
+Text:I can't get my new picture to show up
+
+Sentiment: 0
+Text:i can't go. too much to do.
+
+Sentiment: 0
+Text:I can't hear a damn word that TBS is singing
+
+Sentiment: 0
+Text:I cant make it today
+
+Sentiment: 0
+Text:I Cant Stand Ma Brother He Got The New Jordans I Want... *tear*
+
+Sentiment: 1
+Text:I can't wait til my lil man is here...11 more weeks!
+
+Sentiment: 1
+Text:i can't wait to go home and watch danny phantom! While talking to stephen
+
+Sentiment: 1
+Text:I can't wait to go to Las Vegas! 20 more days! OMG!
+
+Sentiment: 1
+Text:I Cant wait to watch britians got talent !!!!!! I dont like holly :O
+
+Sentiment: 0
+Text:- i could have stayed...  - CELL
+
+Sentiment: 0
+Text:" I did not get to see Beth
+
+Sentiment: 0
+Text:i didnt get head boy. Oh well...x
+
+Sentiment: 0
+Text:" i didn't get to cook
+
+Sentiment: 0
+Text:I dislike myself right now. Maybe A Letter To You will help a bit. Gonna lay down : /
+
+Sentiment: 0
+Text:AM meetings suck!!
+
+Sentiment: 0
+Text:am so upset but i wont tell you!
+
+Sentiment: 0
+Text:am suddenly v. v. sad and tired. :\ also - can anyone think of great hero anthems? counterpart to heroine's: http://snurl.com/kixxt
+
+Sentiment: 0
+Text:amazing people ---&gt;  @geogurl @christophermc @feiticeira @bittersweetm #followfriday
+
+Sentiment: 0
+Text:An online number lets family and friends call you at local rates wherever you are in the world. Loving Skype http://is.gd/tsgM
+
+Sentiment: 0
+Text:And I have to get going #MCRchat
+
+Sentiment: 0
+Text:And so it begins again... I'll be at Subway if you need me. Sigh sigh sigh.
+
+Sentiment: 0
+Text:- Animal Crossing crashed on me after 50 minutes of work.  At least I still have my silver shovel.
+
+Sentiment: 0
+Text:another day of running!! ......Today is fresh to death Friday (everyday is fresh to death Friday 4 me) Ha Ha lol!!!!
+
+Sentiment: 0
+Text:Another eye infection. My left eye is contaminated I swear. I get eye infections every month haha.
+
+Sentiment: 0
+Text:another one... and ill expect more to come... way to go dy... aarrrrggghhhhh!
+
+Sentiment: 0
+Text:another Saturday without MO. Glad Rachel is coming over!
+
+Sentiment: 0
+Text:ants are evil!
+
+Sentiment: 0
+Text:"- Anyone else on Dropshots? My id is katjrobertson  It's password protected tho
+
+Sentiment: 0
+Text:apparently going to rain. Please Don't rain. stay sunny. please  x
+
+Sentiment: 0
+Text:APPARENTLY YOU ONLY NEED LIKE 10 LINES ON THE LAST QUESTION! I DID A WHOLE PAGE! UGGGGGGGHHHH
+
+Sentiment: 0
+Text:arghhhhhhhhhhhhhhh
+
+Sentiment: 0
+Text:Arizona Real Estate Specialist - View ALL HOMES for sale in arizona on my website FREE http://www.nicholasmcconnell.com Coldwell Banker
+
+Sentiment: 0
+Text:as my old comp duied on me 2 weeks ago ... but not to fear i will find a way to post up music no matter what
+
+Sentiment: 1
+Text:- At a cabaret with my family; I love them!! .. In my comfort zone
+
+Sentiment: 0
+Text:at Atl's trance scene.
+
+Sentiment: 0
+Text:- at home eating mcdonalds cinnamelts &amp;&amp; a oreo frosty.
+
+Sentiment: 0
+Text:at Katy Perry delaying her Birmingham gig for nearly 3 months.
+
+Sentiment: 0
+Text:At least today is ok.
+
+Sentiment: 0
+Text:- at my grandmas eating good.
+
+Sentiment: 0
+Text:at the doctors. -Ian
+
+Sentiment: 0
+Text:" at the hosp
+
+Sentiment: 0
+Text:at the manila right now.
+
+Sentiment: 0
+Text:at when Pac got shot in vegas
+
+Sentiment: 0
+Text:at work
+
+Sentiment: 0
+Text:at work... *tears*
+
+Sentiment: 0
+Text:aw damn somebody hit tiffany on nxt weeks episode or somethin?? Hellllllll no I'm def watchin nxt week lol
+
+Sentiment: 0
+Text:aw i hate my heart sooo soo much. but it's ok.
+
+Sentiment: 0
+Text:"- aw
+
+Sentiment: 0
+Text:" awwe it's over. But for shuch a short storm we had it all
+
+Sentiment: 0
+Text:Awww cmon moodswings..
+
+Sentiment: 0
+Text:babe i miss you! How was wet n' wild?
+
+Sentiment: 0
+Text:baby ethans leaving for the PI tomorrow.
+
+Sentiment: 0
+Text:baby. I'm so sorry your back hurts. Maybe when you come here i can oil you up and rub you down ;)
+
+Sentiment: 0
+Text:back freakin hurts.
+
+Sentiment: 0
+Text:back from shower.
+
+Sentiment: 0
+Text:back to college for me now havnt had any sleep very tierd! hope its nice and sunny 2day
+
+Sentiment: 1
+Text:back to hotel. time to start work
+
+Sentiment: 0
+Text:back to maths. i wish i could stab it. but at least i have another red bull
+
+Sentiment: 0
+Text:BB is on again soon..... ARGH!!
+
+Sentiment: 0
+Text:BBL ppl ~ have to go to school~
+
+Sentiment: 0
+Text:being grounded sucks
+
+Sentiment: 0
+Text:belllly ache.
+
+Sentiment: 0
+Text:bestee went to get pamperd wit out me (sike) she invited me but me not in the mood. i still &lt;3 her tho!!!!
+
+Sentiment: 0
+Text:- Beth left  Man oh man. Wanted to go tanning today. But I dont think that im going to be able to. Makes me sad. Boo hoo.
+
+Sentiment: 0
+Text:Bethenny Frankel Starred In Hollywood Hills 90028 http://tinyurl.com/qytxx4
+
+Sentiment: 0
+Text:big giant fail on my part this morning.
+
+Sentiment: 0
+Text:bit disapponted with new DM album. Hope it's a grower.
+
+Sentiment: 0
+Text:" blah
+
+Sentiment: 0
+Text:blonde moment @Sammy_Bunny  thihi
+
+Sentiment: 0
+Text:" Blonde moment
+
+Sentiment: 0
+Text:Body Of Missing Northern Calif. Girl Found: Police have found the remains of a missing Northern California girl .. http://tr.im/imji
+
+Sentiment: 0
+Text:body shop 2morrow. Side veiw mirror is still MIA. SMH at $400 price tag.
+
+Sentiment: 1
+Text:BOO. I always miss the good stuff!
+
+Sentiment: 0
+Text:boooo! My iPhone is dying!
+
+Sentiment: 0
+Text:"- Bored
+
+Sentiment: 0
+Text:bored in work! Bleeehhh just had chilli for lunch
+
+Sentiment: 0
+Text:bored&amp;&amp;my foot is killing me. hopefully I can still go to sandhills this weekend!!making my RAMEN N00DLES so I can take my medicine. brb
+
+Sentiment: 0
+Text:bored..i've sat inside this house the past 2 days...sucky
+
+Sentiment: 0
+Text:bored..yo!
+
+Sentiment: 0
+Text:boring.. wait! i will comment on my friend in FS frst! ;
+
+Sentiment: 0
+Text:bout to leave NY bak to CT--damn I been comin out here err day this week! Lol smh jus makin quik stops handlin bizzz
+
+Sentiment: 0
+Text:bout to party in a tent
+
+Sentiment: 0
+Text:" Boys are stupid
+
+Sentiment: 0
+Text:"' Brokeback Mountain'is so beautiful
+
+Sentiment: 0
+Text:broken again -.-
+
+Sentiment: 0
+Text:broken bones suck
+
+Sentiment: 0
+Text:broken hearts will heal with time...
+
+Sentiment: 0
+Text:" Bron It's okay
+
+Sentiment: 1
+Text:brooklyn bridge for the first time ever. yay life =D
+
+Sentiment: 0
+Text:brug says swine flu reached manila. Now the I don't have a reason for the JB to come here as refuge from h1n1!!! (
+
+Sentiment: 0
+Text:bummer. .. what happened to wednesday nights??
+
+Sentiment: 1
+Text:Bus only just arrived. was sposed to be here 25 mins ago. Cant wait till i can drive again so i dnt have to rely on busses.
+
+Sentiment: 0
+Text:" But caught Bullet Boys
+
+Sentiment: 1
+Text:but i  love that show @ohai_audrey ...
+
+Sentiment: 0
+Text:" but idk
+
+Sentiment: 0
+Text:but not with Karen anymore
+
+Sentiment: 1
+Text:But pretty good acting for 4 year old. I was impressed.
+
+Sentiment: 0
+Text:- but sticks and stones still break my bones
+
+Sentiment: 0
+Text:but why not? @kathrynYO
+
+Sentiment: 0
+Text:but youre taking steps to change it!
+
+Sentiment: 0
+Text:bye baby. up next= one way ticket to hawaii. weird.
+
+Sentiment: 0
+Text:byee guysss
+
+Sentiment: 0
+Text:calculus exam
+
+Sentiment: 0
+Text:" I dnt knw
+
+Sentiment: 0
+Text:i dnt want it! Just revenge.
+
+Sentiment: 0
+Text:i don't feel good. I want some partyrings &amp;&amp; starbucks
+
+Sentiment: 1
+Text:i dont fell happy right now
+
+Sentiment: 0
+Text:i dont know wer we went wrong
+
+Sentiment: 0
+Text:i don't know what to put.
+
+Sentiment: 0
+Text:i don't know why but i'm really sad and worried at the moment.
+
+Sentiment: 0
+Text:I DON'T KNOW WHY I CAN'T DM FROM MY PHONE. THIS SUCK.
+
+Sentiment: 0
+Text:i don't know why i'm sad and worried at the moment. i really don't know.
+
+Sentiment: 0
+Text:i don't like crying.
+
+Sentiment: 0
+Text:I don't think my dog is gonna make it past the night
+
+Sentiment: 0
+Text:i dont think yoru there... bummma
+
+Sentiment: 0
+Text:I don't wanna be at work right now. I'm sooo tired and a smidge hungover
+
+Sentiment: 0
+Text:I don't wanna be sick
+
+Sentiment: 0
+Text:i dont wanna do this im gunna cry
+
+Sentiment: 0
+Text:I don't wanna go to work.... Tired and I miss my papi
+
+Sentiment: 0
+Text:i don't want school anymoreee.
+
+Sentiment: 0
+Text:I dunno what to do now.
+
+Sentiment: 0
+Text:i failed my math final part #2     i hate calculus nowwww !
+
+Sentiment: 0
+Text:i feel bad .MewithoutYou.
+
+Sentiment: 0
+Text:i feel just like my car inside banged up and sad   maybe its meant for  me to get a new can i borrow some cash ..anyone? anyone?
+
+Sentiment: 0
+Text:I feel like a horrible human being. I didn't take the dog out when I was supposed too!
+
+Sentiment: 0
+Text:I feel like crap.
+
+Sentiment: 0
+Text:i feel like crawling into my bed under my covers listening to my ipod and having a cry session..
+
+Sentiment: 0
+Text:I feel like my ipod is gonna die on me today. (The apple of my eye-double pun)
+
+Sentiment: 0
+Text:i feel really alone.
+
+Sentiment: 0
+Text:i fell down the stairs again... i officially hate curvy staircases. they're nothing but bad news.
+
+Sentiment: 0
+Text:" i felt so sick today
+
+Sentiment: 0
+Text:I finally have updated from a computer. THANK YOU DAD
+
+Sentiment: 0
+Text:I forgot to bring my new Allegra D 12 hour to work today... so Singulair and I are flying solo today!
+
+Sentiment: 0
+Text:i forgot to tell you guys that I didnt make  the cheer team  gggrr!!
+
+Sentiment: 0
+Text:i got banned forever from cp mimo dosnt that suck?
+
+Sentiment: 0
+Text:i got ill and tomorrow iï¿½ve got birthday...
+
+Sentiment: 0
+Text:i got sunburnt 2day....In Blackpool :O lol my little boy had fun tho....chucking water on me lol
+
+Sentiment: 0
+Text:I GUESS I DONT HAVE A BOYFRIEND!!!!!!
+
+Sentiment: 0
+Text:I guess I wouldn't be a true Cleveland sports fan without years of collapse and disappointment
+
+Sentiment: 0
+Text:I guess i'll be home... while everyone is at BDay Bash having the time of their lives... with DRAKE! :'(
+
+Sentiment: 0
+Text:i guess it got you more time to work rofl
+
+Sentiment: 0
+Text:I hat3 seeing friends breakup.....im sorry frankus
+
+Sentiment: 0
+Text:I hate goodbyes.
+
+Sentiment: 0
+Text:i hate having to change driving instructor... new one has dented my confidence slightly...
+
+Sentiment: 0
+Text:I hate having to work weekend duty.
+
+Sentiment: 0
+Text:i hate him.
+
+Sentiment: 0
+Text:i hate it! he's mad at me again!
+
+Sentiment: 0
+Text:i hate lightening.
+
+Sentiment: 0
+Text:I hate not having anyone to talk to.
+
+Sentiment: 0
+Text:I hate pain
+
+Sentiment: 0
+Text:I hate summerschool! @santospattyy have fun at work even though you're getting off at 10? @iwho doooit! I'll visitt you my fobby friend!
+
+Sentiment: 0
+Text:i hate the cold weather.
+
+Sentiment: 0
+Text:BBC: Champion Nadal out of Wimbledon http://news.bbc.co.uk/sport2/hi/tennis/8085394.stm
+
+Sentiment: 0
+Text:Be careful... white at a BBQ is a high risk. But the dress is really awesome! http://lookbook.nu/look/154056
+
+Sentiment: 0
+Text:Beautiful day here on StT. Bout to head to Magens Bay- soak up some sun. Loove Saturdayss.
+
+Sentiment: 0
+Text:" Beboing
+
+Sentiment: 0
+Text:" because Boston (and fine ass Eddie House
+
+Sentiment: 0
+Text:" because I'm a safe person
+
+Sentiment: 0
+Text:becca told me i would start to feel better after food. Still stressing about this exam...more revision in a bit.
+
+Sentiment: 0
+Text:becomming a fan of bubble shirts...Haha they dont make me look as chubby
+
+Sentiment: 0
+Text:been a crappy day...
+
+Sentiment: 0
+Text:being a girl stinks. Grrrrrrrrrr
+
+Sentiment: 1
+Text:Being forced into bed. Guess I'll have to wait until moring here for Niley news (I'm in UK so  )
+
+Sentiment: 0
+Text:"- big day of putting in a dock tomorrow.  60 degress outside
+
+Sentiment: 0
+Text:bio. physics. math. health. filipino. english. elections. help me i'm drowning in school work.
+
+Sentiment: 0
+Text:blah blah blah... I'm perfect for you and you know it.
+
+Sentiment: 0
+Text:Blesh. No feedback. And no one in my house will tell me. Sheesh.
+
+Sentiment: 0
+Text:bluetooth still doesn't work on iphone 3.0. pile of knob sackage!
+
+Sentiment: 0
+Text:boo (but will I listen?)
+
+Sentiment: 0
+Text:boo for the first day of classes...summer classes! ughhhh has anyone ever had boob cramps? lol
+
+Sentiment: 0
+Text:" boo hoo- trying to open my email
+
+Sentiment: 1
+Text:boo you suck...but thanks for one thing today and can't wait for the rest of the week...
+
+Sentiment: 0
+Text:bored and no one is talking anymore.
+
+Sentiment: 0
+Text:bored..... sad.... no one tweeting...
+
+Sentiment: 0
+Text:bored.wish I had somewhere 2 go.ha
+
+Sentiment: 0
+Text:BOREDD I WANT TO GO HOMMMMME.
+
+Sentiment: 0
+Text:Boring English Coursework.
+
+Sentiment: 0
+Text:BOSS marah coz i steal a few puff......
+
+Sentiment: 0
+Text:Boston and Atlanta both out...my vote goes to the Nuggets for NBA Champions! http://plurk.com/p/ug96m
+
+Sentiment: 0
+Text:- bouta' watch mall cop
+
+Sentiment: 0
+Text:brandon why do you work so much?
+
+Sentiment: 1
+Text:breaking into pieces...waited all that time 4 what N.A.S.
+
+Sentiment: 1
+Text:bringing my lovely back home. Sucks. Great day. I love her. Steven later.
+
+Sentiment: 0
+Text:" British weather is back i see! Oh well Birtney
+
+Sentiment: 0
+Text:bryan wants on right now. if i can get on when hes done i will. TXT MEEEEEE!
+
+Sentiment: 0
+Text:but theres always tomorrow..
+
+Sentiment: 0
+Text:caffine headache now lol follow @peterfacinelli @gilbirmingham @billy_burke
+
+Sentiment: 0
+Text:' camp in confirming that he will be in San Diego this fall for the PRSSA Convention. haha.
+
+Sentiment: 0
+Text:can I tweet yet? My phone was jus buggin
+
+Sentiment: 0
+Text:- Can See clearly now the rain is gone.
+
+Sentiment: 0
+Text:can some one pleease tell me how to work out the total surface area of a square pyramid?
+
+Sentiment: 0
+Text:cannot hear the new song due to geographic location. i am geographically undesirable. and tune-less
+
+Sentiment: 0
+Text:Cant do this anymore
+
+Sentiment: 0
+Text:cant drive yet but that dont matter Im gonna learn bout cars and motorbikes.
+
+Sentiment: 0
+Text:can fuck I also have to read NIGHT!!
+
+Sentiment: 0
+Text:can I go and sit in my own little corner
+
+Sentiment: 0
+Text:can someone buy me adrink? Faaa real!!!!!
+
+Sentiment: 0
+Text:- can someone run with me to Newport ? Don't wanna take the ride myself
+
+Sentiment: 0
+Text:Can yah figure it outt?!
+
+Sentiment: 0
+Text:can`t believe i missed out on a day of swimming at nikki`s!
+
+Sentiment: 0
+Text:can't believe the jumpers are gone...i'm really depressed now.
+
+Sentiment: 0
+Text:cant do it!
+
+Sentiment: 0
+Text:can't ever find parking
+
+Sentiment: 0
+Text:cant fall back asleep.
+
+Sentiment: 0
+Text:can't get on the net on my phone
+
+Sentiment: 0
+Text:can't go swimming 2 day..mabey tomorrow..
+
+Sentiment: 0
+Text:cant leave because my dad is in the bathroom...
+
+Sentiment: 0
+Text:cant listen to www.ZIPFM.net on my mac
+
+Sentiment: 0
+Text:Can't see his copper green guys though.. http://tinyurl.com/ppc4cq
+
+Sentiment: 1
+Text:cant sleep .. wishin i was wit @jimmyrobinson07 i love youu .. good nite twitters!!
+
+Sentiment: 0
+Text:cant sleep because my dumb arms itch so bad. FML i cant wait to go to the doctors
+
+Sentiment: 1
+Text:" Can't sleep... Must be the time change
+
+Sentiment: 0
+Text:can't stop smiling after talking to him all day...  ...Why couldn't I have met him months ago?!?
+
+Sentiment: 0
+Text:Cant waiit! xxx.
+
+Sentiment: 1
+Text:can't wait 'til wednesday!!!! &lt;3 CHAMPSSSS!!!!
+
+Sentiment: 1
+Text:cant wait till later!!!!!!!!!!! gonna sit here and play ps2 then prob watch the phillies then eat dinner then the best part of the day!
+
+Sentiment: 1
+Text:can't wait to get my share of her check today. Lol
+
+Sentiment: 1
+Text:cause i'm happy but disappointed my car is messing up.....my poor baby. now i'm hungry with no way to get food. What's in this house?????
+
+Sentiment: 0
+Text:" cavs lost
+
+Sentiment: 0
+Text:- change of screen name
+
+Sentiment: 0
+Text:charade is over.Sammy Sosa supposedly tested positive in 2003 for a performance enhancing drug. My childhood hero is officially disgraced
+
+Sentiment: 0
+Text:Charging phone
+
+Sentiment: 0
+Text:cheer me up;
+
+Sentiment: 0
+Text:cheese and pickle sandwich with too much pickle = urgh!!
+
+Sentiment: 0
+Text:chillin!!!!
+
+Sentiment: 0
+Text:Chinese for dinner and working on a cool website template. So proud of myself.
+
+Sentiment: 0
+Text:chop my hand off please! Advil isn't working
+
+Sentiment: 1
+Text:-- choppin it up w/ @auchboogie  i love you
+
+Sentiment: 0
+Text:Cleveland @MsJBell Congrats Orlando
+
+Sentiment: 0
+Text:clouds are rolling in....
+
+Sentiment: 0
+Text:coco doesnt tweet anymore. viva la hole woman. dont let us down...again....
+
+Sentiment: 0
+Text:come back
+
+Sentiment: 0
+Text:computer overheatedd. I think i smell burning laptop...
+
+Sentiment: 0
+Text:" computers not working
+
+Sentiment: 0
+Text:concert later tonight!
+
+Sentiment: 0
+Text:" cool. Ew
+
+Sentiment: 0
+Text:could be
+
+Sentiment: 1
+Text:could not get to sync facebook and twitter
+
+Sentiment: 0
+Text:Could Not Sleep If My Life Depended On It ):
+
+Sentiment: 0
+Text:couldn't find anything I wanted at Fry's that was within my budget.
+
+Sentiment: 0
+Text:" couples in public
+
+Sentiment: 0
+Text:" Covered in bug bites
+
+Sentiment: 0
+Text:coz he's
+
+Sentiment: 0
+Text:cramps suck your mothers balls! *mentally screams* OUCH!
+
+Sentiment: 0
+Text:i hate this .. Goodnight.
+
+Sentiment: 0
+Text:i hate this part.
+
+Sentiment: 0
+Text:i hate thunder... i woke up really scared just now cus of it.
+
+Sentiment: 0
+Text:" i hate when porn ppl follow me
+
+Sentiment: 0
+Text:I have a brace and it hurts!!!!! now I am a braceface!!!!!
+
+Sentiment: 0
+Text:i have a buzz
+
+Sentiment: 0
+Text:i have a headache!!!
+
+Sentiment: 0
+Text:i have already seen all the episodes of forensic files they are playing tonight.
+
+Sentiment: 0
+Text:i have been having the worst cramps lately.
+
+Sentiment: 0
+Text:" I have finally seen Clerks
+
+Sentiment: 0
+Text:I have one big swollen ear...antibiotics again!
+
+Sentiment: 0
+Text:" I have such a problem with insomnia
+
+Sentiment: 0
+Text:i have the cold
+
+Sentiment: 0
+Text:" i have to go into school tomorrow to sing
+
+Sentiment: 0
+Text:I have to go to work.
+
+Sentiment: 0
+Text:i have to piss.
+
+Sentiment: 1
+Text:I have to wait till next Tuesday to see star trek cause no one will go with me till then.  Friends suck.
+
+Sentiment: 0
+Text:" i havent actually seen my bestfriend in maybe a month... My fault
+
+Sentiment: 0
+Text:I haven't been on Twitter all day thought I'd make some late twitters.
+
+Sentiment: 0
+Text:" i haven't checked it for a while
+
+Sentiment: 0
+Text:i hope everyone has a great day!
+
+Sentiment: 0
+Text:i hope i dont have any weird brain problem or disease  i think ill be fine though. the nurse doesnt sound too worried.
+
+Sentiment: 0
+Text:i hope justice isnt mad at me
+
+Sentiment: 0
+Text:I hope the RAPE GHOST doesn't get me.
+
+Sentiment: 0
+Text:I hope you find a great trousers
+
+Sentiment: 0
+Text:I is to drunk to know if in a partht or what nor
+
+Sentiment: 0
+Text:" i just ate some bad fruit
+
+Sentiment: 0
+Text:I just busted my ass in the kitchen and I'm wearin flats....grr stupid floor
+
+Sentiment: 1
+Text:i just got dumped by my boyfrnd  love  makayla
+
+Sentiment: 0
+Text:I just got to my 500 tweet...... Do i get a prize? *sidebar* Cassidy...... Your NASTY! Why i gots to hear about your wide peen for? Smh
+
+Sentiment: 0
+Text:i just had a bug crawling on my leg. it scared me. but now its in a water bottle i found on my floor. hopefully it doesnt find a way out!
+
+Sentiment: 0
+Text:I just heard David Eddings died earlier this month
+
+Sentiment: 0
+Text:I just hit my face on a box at work n scratched my cheek lol
+
+Sentiment: 0
+Text:I just made a $1k principal payment on my student loans because I realized my monthly payments only go to interest. ):
+
+Sentiment: 0
+Text:i just need my snuggle buddy backkk
+
+Sentiment: 0
+Text:i just poked myself in the face with a Goose feather from my pillow...
+
+Sentiment: 0
+Text:I just restarted my iPod. I should've written down all my apps first.
+
+Sentiment: 0
+Text:- I just saw one of the new Camaros &quot;in the wild&quot; for the first time! Cool.
+
+Sentiment: 0
+Text:i just sneezed with a strepsil in my mouth and nearly choked (n)
+
+Sentiment: 0
+Text:" I just waited so long for the finale of gossip girl to download
+
+Sentiment: 0
+Text:I just wanna curl up and go back to bed!
+
+Sentiment: 0
+Text:I just wanna swim some laps but all the lanes are taken! This sucks.
+
+Sentiment: 0
+Text:can't get it off my mind... &lt;/3
+
+Sentiment: 0
+Text:can't get my free haircut today... next week i guess
+
+Sentiment: 0
+Text:" Can't get my hands on a copy of Cap #600 until at least Thursday. Actively avoiding spoilers
+
+Sentiment: 0
+Text:can't hear the reds game in the tunnel.
+
+Sentiment: 0
+Text:can't sleep again
+
+Sentiment: 0
+Text:Can't sleep and have an exam tomorrow Oh No!
+
+Sentiment: 0
+Text:Can't sleep.  Watching Royal Pains.  Impressed. - http://royalpains.usanetwork.com/
+
+Sentiment: 0
+Text:" can't sleep. But oh well
+
+Sentiment: 0
+Text:can't sleep. Have to be up at 6 in the am. Boo!  Go to sleep flor!!
+
+Sentiment: 1
+Text:can't wait to come home!
+
+Sentiment: 1
+Text:cant wait to see eric and lauras house
+
+Sentiment: 0
+Text:Cardinals lost...AGAIN!
+
+Sentiment: 0
+Text:-- Catching up on last weeks Greys... I miss when it was awesome
+
+Sentiment: 0
+Text:- Catching up on some work! looking forward to going out 2night
+
+Sentiment: 0
+Text:" Cavs fizzled
+
+Sentiment: 0
+Text:Cavs lost!!!!! WHY!!!! Magic will lose easily though
+
+Sentiment: 0
+Text:cheer up shan.
+
+Sentiment: 0
+Text:chili's doesn't do the awesome blossom any more.
+
+Sentiment: 0
+Text:Class is boring
+
+Sentiment: 0
+Text:cleansed my face &amp;was reminded y I'm a winter not a summer ! I hate the sun . My face is so sore ! My everything is so sore !
+
+Sentiment: 0
+Text:--- click on my name &amp; go look at my profile
+
+Sentiment: 0
+Text:" Climate Progress
+
+Sentiment: 0
+Text:" clouds rolling in
+
+Sentiment: 0
+Text:- Clumsy 'ol me left an awful scratch scar on my nose while attempting to adjust the googles and freestyling at the same time.
+
+Sentiment: 0
+Text:cocoa pebbles at midnight. xD
+
+Sentiment: 0
+Text:" college is over
+
+Sentiment: 0
+Text:Collingwood are playing shiteeeeeeeee atm. Comeee on boysssss!
+
+Sentiment: 0
+Text:Columbus Crew
+
+Sentiment: 0
+Text:come on AppStore Approval. its been almost 18 hrs :p lol
+
+Sentiment: 0
+Text:comfort foods shall be the death of me - there is dire need of eating less chocolate cake n getting more beauty sleep!
+
+Sentiment: 0
+Text:company is offering 2nd round of VSS RIF!
+
+Sentiment: 0
+Text:Completo. Just as the bell rings
+
+Sentiment: 0
+Text:confused....
+
+Sentiment: 0
+Text:coolness  http://yfrog.com/06atmfj
+
+Sentiment: 0
+Text:couldnt go with ashley
+
+Sentiment: 0
+Text:cousin not coming because of her senior project which isnt due for another fing 2 weeks &amp; its just an art project..ridiculous!!!
+
+Sentiment: 1
+Text:cracker night! Dinner at tgi Fridays and the cinema  it's gonna be good to awake up without a hangover 2mrw tattoo 2mrw?!
+
+Sentiment: 0
+Text:craig's a cokehead
+
+Sentiment: 0
+Text:" crap day - feel sick and my phone has the battery life of
+
+Sentiment: 0
+Text:" Currently getting dressed for ballet. Yes I am sitting here in a leotard
+
+Sentiment: 1
+Text:da baby sleep now my gosh now its time 4 me 2 get sum rest b4 she gets up around 10am =(
+
+Sentiment: 0
+Text:dad is leaving and wont be back til the wedding.
+
+Sentiment: 0
+Text:dad left for turkey already
+
+Sentiment: 0
+Text:" daddy passed away june 13
+
+Sentiment: 0
+Text:" dag just when i decide to throw that freak em dress on
+
+Sentiment: 0
+Text:cramps. FUCK YOU. ugh asdfghjkl; in so much pain right now. I should go eat a banana. http://tumblr.com/xzr1wz7ez
+
+Sentiment: 0
+Text:CUBASE IS WORKING OH MY GOD
+
+Sentiment: 0
+Text:- curiousity killed the cat... so much for wishing for the dream job...
+
+Sentiment: 0
+Text:-- currently at tajur. Boo boo I'm hungweey
+
+Sentiment: 0
+Text:Currently enjoying the tonight show... I've missed my Conan&lt;3
+
+Sentiment: 0
+Text:cuz frankie is going swimming....
+
+Sentiment: 0
+Text:D: :S &gt;.&lt; ?????????? WHAT??? ;_;&lt;/3
+
+Sentiment: 0
+Text:dads in the hosptal (stupid bees)
+
+Sentiment: 0
+Text:" Dammit
+
+Sentiment: 0
+Text:- Damn I Have A Cold.
+
+Sentiment: 1
+Text:damn it twitter UPDATE ME!!!
+
+Sentiment: 0
+Text:damn thuderstorms woke me up.. wish my bebe was here with me. I love you RICHARD
+
+Sentiment: 0
+Text:Dancing no more tonight. I'm EXHAUSTED.
+
+Sentiment: 0
+Text:dang i feel like shit and those &quot;Above the Influence&quot; commercials really grind my gears.
+
+Sentiment: 0
+Text:-- Daniel Powter Bad day http://bit.ly/ezAuU   i m NOT at COLDPLAY 2-nite in NASH...
+
+Sentiment: 0
+Text:" darn i just found out im getting one of my tooth pulled out tomorrow
+
+Sentiment: 0
+Text:-- darn. I forgot to bring a fork to work today...now I'm eating my salad with coffee sticks.
+
+Sentiment: 0
+Text:David Eddings is dead. I hope he died believing he'd gotten that one story finally told.
+
+Sentiment: 0
+Text:David Tennant is dating again. I thought he was saving himself for me. When will I meet some tall dark Scotsman to romance me?
+
+Sentiment: 0
+Text:" Dear all
+
+Sentiment: 0
+Text:def feelin a way. Jus found out a guy my lil brother grew up wit died. Niggas shot him at a party. 19 n gone.. Smh.. Stop the violence
+
+Sentiment: 0
+Text:" demi is going on tour
+
+Sentiment: 1
+Text:Demi lovato is comming to london so is miley YAY! you lot will see me there trustttt mee still want to know what time itunes gig starts
+
+Sentiment: 0
+Text:" dentist later
+
+Sentiment: 0
+Text:" designing away for #f3s - homepage
+
+Sentiment: 0
+Text:did God give up on us?!
+
+Sentiment: 0
+Text:did I miss the hov track. smh I see mad twits about the hov shit.
+
+Sentiment: 0
+Text:did you guys hear about the airplane crash? Scary.
+
+Sentiment: 1
+Text:Didn't bring connector for camera on trip...saving new photos will have to wait another week...
+
+Sentiment: 0
+Text:Didnt calld Dad
+
+Sentiment: 0
+Text:Didn't do so well on the job today. Made $78. But I learned some valuable skills at the field manager meeting today!
+
+Sentiment: 0
+Text:didn't get an award but i did get recognized by all the seniors. They said that they are going to watch the plays because of me
+
+Sentiment: 0
+Text:didn't get my halo-halo but instead have an udon soup to go.
+
+Sentiment: 0
+Text:" didn't get to meet bachmann
+
+Sentiment: 0
+Text:didnt sticth today cos was reading on wattpad LOL
+
+Sentiment: 0
+Text:did't have proper food from morning on...  Liquid diet... Citrus in breakfast &amp; apple shake in lunch... missing home food
+
+Sentiment: 0
+Text:i just want my compositions back. i was going to work on a waltz/lullaby. stupid gremlins.
+
+Sentiment: 0
+Text:" I just woke up but I wanna go back to sleep
+
+Sentiment: 0
+Text:I keep getting errors on iPhone and it saves okay online but I see nothing
+
+Sentiment: 0
+Text:I know I know
+
+Sentiment: 0
+Text:i know it could've been a lot worse. But a broken ankle is still enough to worry me.
+
+Sentiment: 0
+Text:I like the emo boy in hollyoaks /sad
+
+Sentiment: 0
+Text:I look like a freakshow!! The beautician waxed my eyebrows into oblivion!!
+
+Sentiment: 0
+Text:i look so beautiful today lol(in my dreams) and yet there is nobody around who wants to do anything
+
+Sentiment: 0
+Text:i lost my 021 charger last night
+
+Sentiment: 0
+Text:i lost my book while i was sleeping. who does that?!
+
+Sentiment: 0
+Text:I lost two kids at Youth Group tonight. No joke.
+
+Sentiment: 1
+Text:I love Dirk and his 44 points from tonight. Now if he could only realize he was meant to be with me..
+
+Sentiment: 1
+Text:" I love him
+
+Sentiment: 1
+Text:i love my friends. And cant wait for church tomorrow!!!!!! Im up. Up. Up. Right now. This happens frequently.
+
+Sentiment: 1
+Text:i love my momma &lt;3
+
+Sentiment: 0
+Text:i LOVE shortsTack! (Especially Shaun!!hehe) But(bradie &amp;andy r gorgeous too!!!
+
+Sentiment: 1
+Text:I love talking to you. Even if its simple words.
+
+Sentiment: 1
+Text:I love the download fest.
+
+Sentiment: 1
+Text:"- I love you
+
+Sentiment: 0
+Text:i loved the new calf
+
+Sentiment: 0
+Text:I make nonsense jokes that make pain to others....
+
+Sentiment: 0
+Text:" i may have diabites i cant spell it but yeah
+
+Sentiment: 0
+Text:" I may not get to keep my engagement ring.. may have to switch it... not fair
+
+Sentiment: 0
+Text:i miss bby V....want to see her NOW!
+
+Sentiment: 0
+Text:I miss Direct TV...I could be watching the Cake Boss now or already watched it...
+
+Sentiment: 0
+Text:i miss guild wars... i still haven't touched the most recent one. it's just sitting on my desk. skylar alanine will get some action soon
+
+Sentiment: 0
+Text:I miss kelli. But I'm glad she's having fun  fun saturday night  goodnight. I miss jeffy.
+
+Sentiment: 0
+Text:i miss my boys....
+
+Sentiment: 0
+Text:I miss my brycey alreadt... oside bound.
+
+Sentiment: 0
+Text:I miss my cell phone
+
+Sentiment: 0
+Text:I miss my friends
+
+Sentiment: 0
+Text:i miss my leddy boo...
+
+Sentiment: 0
+Text:i miss the days when i was the starfish to his sponge
+
+Sentiment: 0
+Text:I miss us! Miss the old times with the guyz
+
+Sentiment: 0
+Text:I miss you.Where are you? D:
+
+Sentiment: 0
+Text:I need a hug
+
+Sentiment: 0
+Text:I need a money
+
+Sentiment: 0
+Text:I need a new Ipod!! This freaking thing won't Sync anymore!!! Anywho......Hoping the Magics make a run for the W!!!
+
+Sentiment: 0
+Text:" I NEED A PHONE....MISSIN DA CRACKBERRY RITE NOW
+
+Sentiment: 0
+Text:" i need followers-If you want Satellite TV on your pc
+
+Sentiment: 0
+Text:I need ktv!
+
+Sentiment: 0
+Text:I need my car fixed
+
+Sentiment: 0
+Text:I need someone to comfort me
+
+Sentiment: 0
+Text:" I need study a lot
+
+Sentiment: 0
+Text:I need you more than you need me...and this hurts Paige.
+
+Sentiment: 0
+Text:i neva knew gettin an internship was this unpredictable
+
+Sentiment: 0
+Text:did't have proper food from morning on... Liquid diet... Citrus in breakfast &amp; apple shake in lunch...
+
+Sentiment: 0
+Text:Diego makes Tori sad that she FAILS ! Anti-depressant pills ftw. NOT!
+
+Sentiment: 0
+Text:Disneyland was great! ... Got to go and pick up the kitties in a minute ... ?
+
+Sentiment: 1
+Text:Dodgers are doing good today. ^3  6-0 Dodgers 2 outs
+
+Sentiment: 0
+Text:- doesn`t have a phone.
+
+Sentiment: 0
+Text:Doing my Chem 16 Pre-lab. (
+
+Sentiment: 0
+Text:" done with benjamin button
+
+Sentiment: 0
+Text:don't feel like cooking...
+
+Sentiment: 0
+Text:dont get to see my boys tomorroww.im sad
+
+Sentiment: 0
+Text:" dont let me down
+
+Sentiment: 0
+Text:"- don't you hate it when you iPhone battery dies on you
+
+Sentiment: 0
+Text:DOU GUYZ EVEN C ME HERE!?!?!?!?
+
+Sentiment: 0
+Text:" down
+
+Sentiment: 0
+Text:dreams do come true.
+
+Sentiment: 0
+Text:driving to school without justin texting me.. What a lonely morning
+
+Sentiment: 0
+Text:dumb kyle i @him but doesnt have me on his updates
+
+Sentiment: 0
+Text:eatin cereal
+
+Sentiment: 0
+Text:eating food! hahaha
+
+Sentiment: 1
+Text:eeep i love her. so glad she's around.... hannahh! you said you'd text you never didd!
+
+Sentiment: 0
+Text:ehhh startin to think this is not for me
+
+Sentiment: 0
+Text:Either my Video Card died or my DVI cord went down the drain...
+
+Sentiment: 0
+Text:English tomorrow. *breaks down*
+
+Sentiment: 0
+Text:" english
+
+Sentiment: 0
+Text:enjoying my last days of summer &gt;sigh&lt;
+
+Sentiment: 0
+Text:equals sad. In case you were wondering.
+
+Sentiment: 0
+Text:"-- err y am i still awake ? my birthday is june 24th woo hoo
+
+Sentiment: 0
+Text:eurgh  silly sick. silly cold. silly tired. needs her stuff back!
+
+Sentiment: 0
+Text:even the hoff can't bandaid the scar left by diversity winning and not the father son dancey team.
+
+Sentiment: 0
+Text:Every boy...Ive never met anyone as cold as them  Well some boys
+
+Sentiment: 0
+Text:" every number
+
+Sentiment: 0
+Text:Everybody Hates Vinde.
+
+Sentiment: 0
+Text:everyone from home is going to the beach today &amp; I'm stuck in philly
+
+Sentiment: 0
+Text:everyone hates canada! No @Mileycyrus and no @mitchelmusso who wants to road trip to fargo to see @mitchelmusso cause i sure am!
+
+Sentiment: 0
+Text:everyones going on holiday and im left on my loansome for like the 5 year in a row :'( tis crap to be soo skint stuck in shitty scotland
+
+Sentiment: 0
+Text:exams how i hate exams in the summer ! its not fun not at all !! BEACH i miss you !&lt;3
+
+Sentiment: 0
+Text:- excited for toms shopping !
+
+Sentiment: 0
+Text:faster faster show on 16th in Brunswick
+
+Sentiment: 1
+Text:fed up and upset. i need some good nosh down me and a cuddle from a lovely boy with messy hair please. i need a night out too..
+
+Sentiment: 0
+Text:Feddy won! Woop woop! Must compose myself now in preparation pour le finale d'Apprentice later. WAY too much excitement for one day!
+
+Sentiment: 0
+Text:feeling a little under the weather today.
+
+Sentiment: 0
+Text:Feels like a giggly school girl!
+
+Sentiment: 0
+Text:Fifa ticketing just times out. Seems like my 2010 ticket chances are getting less and less...
+
+Sentiment: 0
+Text:" film not on till 7:45
+
+Sentiment: 0
+Text:damn it.
+
+Sentiment: 0
+Text:- damn watchin Spidey Man 3  ::tears:: it touched my soul lol
+
+Sentiment: 0
+Text:damn wendy's commerical got that damn song in my head.
+
+Sentiment: 0
+Text:damn you mobbing deep
+
+Sentiment: 0
+Text:" Damn
+
+Sentiment: 0
+Text:" damn
+
+Sentiment: 0
+Text:Damn. This kinda sucks more than i thought it would. Probably not gonna sleep.
+
+Sentiment: 0
+Text:damn...I miss you...
+
+Sentiment: 0
+Text:dance flick was hilariouss!!!
+
+Sentiment: 0
+Text:" dancin todayyy
+
+Sentiment: 0
+Text:- dark angel is so cool. its unfair. i'm gonna go cut myself now
+
+Sentiment: 0
+Text:David must be hospitalized for five days end of July (palatine tonsils).
+
+Sentiment: 0
+Text:dear driay LOL emo kid god this so brings back merions ha year 6
+
+Sentiment: 0
+Text:dear GOD...
+
+Sentiment: 0
+Text:Delivery from Aussie Farmers didn't work. The pity of living in a big apartment complex. Wished I had a house to use their services.
+
+Sentiment: 0
+Text:Design with humor. Escape key on the run!-- http://ow.ly/3dfT
+
+Sentiment: 0
+Text:" despite my last tweet
+
+Sentiment: 0
+Text:destiney is out. though megan is still my favourite
+
+Sentiment: 0
+Text:Detroit won the first game with a score of 3-1. Red Wings lead series 1-0. !
+
+Sentiment: 0
+Text:" devistated
+
+Sentiment: 0
+Text:did not win my w and y tix...i am determined... excited for tonight yardhouse with my favesss... ONE WEEK!!!!!!
+
+Sentiment: 0
+Text:dident die from the tornado ohh well lolâ™¥
+
+Sentiment: 0
+Text:didn't realize this was happing. sighed and it went all over. so much angst that i sigh blood. http://tinyurl.com/kt2fm4
+
+Sentiment: 0
+Text:dis aint gud a heatstroke!
+
+Sentiment: 0
+Text:disappointed the Cavs...
+
+Sentiment: 0
+Text:discussing the importance of ed westwick &amp; chace crawford with mia.
+
+Sentiment: 0
+Text:disneyland fireworks!
+
+Sentiment: 1
+Text:"- do you want love or do you want fame
+
+Sentiment: 1
+Text:does any1 know wut time its sposed to rain?
+
+Sentiment: 0
+Text:Does anyone know how to treat a bug bite on a dog?
+
+Sentiment: 0
+Text:does neone know what is the exact procedure of getting a DS 2019 issued ..and whether it costs for a summer intern ?
+
+Sentiment: 0
+Text:doesn't have contacts on &amp; can't see ='(
+
+Sentiment: 0
+Text:Doesn't know what to eat! What would you eat on very sensitive stomach after being sick?
+
+Sentiment: 0
+Text:don't ask... and if u do you will regret it alot
+
+Sentiment: 0
+Text:don't feel good
+
+Sentiment: 0
+Text:dont go i got luv for my 100th follower lol @rashagirl28
+
+Sentiment: 0
+Text:Don't hope. You'll be disappointed
+
+Sentiment: 0
+Text:dont know how im goin to go on. i cannot sleep. i keep thinking of her...
+
+Sentiment: 0
+Text:don't know why I bother
+
+Sentiment: 0
+Text:don't make fun of a concerned friend!
+
+Sentiment: 0
+Text:don't wanna think about cheating  my bf is going to Vegas this weekend. I decided not to go!
+
+Sentiment: 0
+Text:-- don't want to do all the housework tonight!
+
+Sentiment: 0
+Text:Dream house!
+
+Sentiment: 0
+Text:" Dropping my mom off at the airport
+
+Sentiment: 0
+Text:Dt exam tomo .... Doing revsion now  !
+
+Sentiment: 0
+Text:" i never get direct messages.. must not be exciting
+
+Sentiment: 1
+Text:i no feels good today
+
+Sentiment: 0
+Text:I now remember why Ms. Janet Jackson is in my top 3.
+
+Sentiment: 0
+Text:I only wanted him to wish me happy birthday.. So much for remembering. Its called facebook these days.
+
+Sentiment: 0
+Text:i oove you. bahaa
+
+Sentiment: 0
+Text:- I posted too early. San Jose just scored
+
+Sentiment: 0
+Text:I really hope Peter Facinelli wins his bet......
+
+Sentiment: 0
+Text:I really wanna go home. I HATE working late!
+
+Sentiment: 0
+Text:i really wish i could have kept that kitten.... someone just picked it up. It will have a good home with no mean cat hissing at it
+
+Sentiment: 0
+Text:i sat on my chocolate truffles.... so much for saving them for to night *tear
+
+Sentiment: 0
+Text:i see how it is
+
+Sentiment: 0
+Text:i should have picked that dog up! Oh no  someone go on the freeway off near bob hope and rescue the cute black dog
+
+Sentiment: 0
+Text:" I Shouldn't Have Came! Its Not The Same Without My Best Friend @TootsiiePop ...  I'm 4Real Y'all
+
+Sentiment: 0
+Text:I shouldn't miss you. &gt;_&lt;
+
+Sentiment: 0
+Text:I slept for maybe an hour or two...even though i tried so hard to fall asleep cause i need my rest.
+
+Sentiment: 0
+Text:i so don't like going to the dentist
+
+Sentiment: 0
+Text:" I Still Cant Find My Phone
+
+Sentiment: 0
+Text:i swear to cheese &amp; crackers @songzyuuup is in Detroit like every 2 months &amp; i NEVER get to see him!  i swear this blows monkeyballs!
+
+Sentiment: 0
+Text:i think i gain another 4kg
+
+Sentiment: 0
+Text:i think i need a drink
+
+Sentiment: 0
+Text:i think im going to bed now... sooo tired! nitey nite!
+
+Sentiment: 1
+Text:" i think its a good day
+
+Sentiment: 1
+Text:I think its work time
+
+Sentiment: 0
+Text:I think my friend has swine flu... FOR REAL  he's in the hospital.
+
+Sentiment: 0
+Text:i think my trachea is infected again.
+
+Sentiment: 0
+Text:i thnk ima cry i feel rlly bad
+
+Sentiment: 0
+Text:i thought i made some progress... Nope
+
+Sentiment: 0
+Text:i totally know how you feel
+
+Sentiment: 0
+Text:i wanna be like you (Demi)
+
+Sentiment: 0
+Text:i wanna crawl in a ball..
+
+Sentiment: 0
+Text:i wanna vote for Miley Cyrus and I cant!! I wanna live in the united states now!!
+
+Sentiment: 0
+Text:i wanna watch the new ep but of course it's ppv..put it on the pay members page too..please matt!!!
+
+Sentiment: 0
+Text:I want all my friends back. (via @Mikejones37) as do I.  Happy for you mike.
+
+Sentiment: 0
+Text:I want an unltimate maing room... free astros. XD
+
+Sentiment: 0
+Text:i want baja california starbursts for some odd reason. :/
+
+Sentiment: 0
+Text:i want iphone OS 3.0...how much longer must i wait? :] me eating french toast. Yum yum yum
+
+Sentiment: 0
+Text:I want my Casanova &amp; Clopin.
+
+Sentiment: 0
+Text:i want summer love! PLEASE LORDDD lol. im so patheticcc.
+
+Sentiment: 0
+Text:" I want the ham sandwich now
+
+Sentiment: 1
+Text:i want to b happy n content. tell me hw. - http://tweet.sg
+
+Sentiment: 0
+Text:I want to but i can't
+
+Sentiment: 0
+Text:" i want to enter in my old my space
+
+Sentiment: 0
+Text:i want to get away!
+
+Sentiment: 0
+Text:i want to get out of sm riiight now. it is draining my soul
+
+Sentiment: 0
+Text:i want to go home get in bed. eat soup. watch friends season 5. all day. i feel like crap
+
+Sentiment: 0
+Text:I want to go to the Teen Choice Awards!
+
+Sentiment: 0
+Text:I want to move so fucking bad. I hate it here. I wish I never bought concert tickets because now I can't move as soon as I want.
+
+Sentiment: 0
+Text:dude bringing up memories now
+
+Sentiment: 0
+Text:Eden missed a turn and then drifted. It was so damn scary. ((
+
+Sentiment: 0
+Text:ehhh bad day
+
+Sentiment: 0
+Text:" elaina and sarah are over
+
+Sentiment: 0
+Text:electricity is out.
+
+Sentiment: 0
+Text:Eliminated Me (KQs) SB x (AKo) CO-1 with a king in the flop.
+
+Sentiment: 0
+Text:" em chï¿½n cï¿½i trï¿½nh ?? English c?a th?ng AR47 quï¿½
+
+Sentiment: 0
+Text:Empty Nest...literally @ my fiancee's.  I hope they're still around. They were SO CUTE &amp; I miss them!
+
+Sentiment: 0
+Text:England what the hell :'( :'( #cricket # T20
+
+Sentiment: 0
+Text:enough said.
+
+Sentiment: 0
+Text:- eShoot canceled... It's storming and raining in Tampa!
+
+Sentiment: 0
+Text:europe cruise mite be cancelled; there was a fire that happened on our ship..... My summer is officialy ruined.
+
+Sentiment: 0
+Text:even Poirot is not making my head feel better.
+
+Sentiment: 0
+Text:even worse than I thought
+
+Sentiment: 0
+Text:" Ever since my brother got married
+
+Sentiment: 0
+Text:everybody has jobs. I am going to be the only one without money.
+
+Sentiment: 0
+Text:" everybody that has my number and my BBM my phone is not working so will be getting a new phone on thursday.. THIS SUCKS
+
+Sentiment: 0
+Text:everyone deserves to be forgiven.
+
+Sentiment: 0
+Text:everyone have an AWESOME wknd! yay for sunshine!
+
+Sentiment: 0
+Text:everyones just set to &quot;Away&quot; on msn.. nobody to talk to :\
+
+Sentiment: 0
+Text:Everything went as planned!!! Now I have many many many new souvenirs from #Herschel and #Planck
+
+Sentiment: 0
+Text:everythings so fucking chilled atm  loving life right this minute. ooo dj am and trvs ayeeeeeeee i think sooo  FIX YOUR FACE 14 FTW.
+
+Sentiment: 0
+Text:exams suck
+
+Sentiment: 0
+Text:Exams!!!
+
+Sentiment: 0
+Text:excellent morning! trying to take in the fact that theres only 1 more week left of school &quot;/
+
+Sentiment: 0
+Text:Excited about purchasing my new MacBook Pro - should be here in a few days
+
+Sentiment: 0
+Text:Excited. Dont think i will sleep tonight!
+
+Sentiment: 0
+Text:failed my psychology class last semester. I don't know if i want to go back in the fall now. Wow that's depressing and whats even more
+
+Sentiment: 0
+Text:" fallen leaves
+
+Sentiment: 0
+Text:fantastic..it's probably cause of the messaging last night/morning..
+
+Sentiment: 0
+Text:Farm Town isn't connecting for me. And I have crops that need to be harvested. #fb
+
+Sentiment: 0
+Text:Farrah Fawcett has passed away
+
+Sentiment: 0
+Text:Farrah Fawcett... one less charlie's angel but one more angel for god
+
+Sentiment: 0
+Text:FBI: Terrorist Attack On Golden Gate Bridge May Have Been Green-Screened http://bit.ly/hdexD (via @TheOnion)
+
+Sentiment: 1
+Text:fcked thing up for good no
+
+Sentiment: 0
+Text:" feel like crying. fucking bitch stealing my family
+
+Sentiment: 0
+Text:" Feel like shit. Choked on something last night &amp; now throat &amp; chest ache &amp; headache. Chicken noodle soup
+
+Sentiment: 0
+Text:" Feel sorry for him
+
+Sentiment: 0
+Text:feeling sad that rapidshare.com acct has bn expired... #fb
+
+Sentiment: 1
+Text:feeling very down this friday morning... i hate when i have time to think... i just get myself down /sigh
+
+Sentiment: 0
+Text:- Figuredd out how to edit profilee  .. &amp; Levi youu dont need to do a 200 Calorie diet :S
+
+Sentiment: 0
+Text:Final Destination 4 has a release date!! August 1st!!!!
+
+Sentiment: 1
+Text:finally a good mood
+
+Sentiment: 0
+Text:finally got my FMC tickets in the mail!!!!!!!!! yeeeeeeeeeeee
+
+Sentiment: 1
+Text:finally linked my fone 2 twitter
+
+Sentiment: 0
+Text:Finally! I finished a new item in my striped colorful knitted line! Want to see it? =&gt;&gt; http://bit.ly/UZtpT
+
+Sentiment: 0
+Text:finally!! lol but  piccckkk mee uppp!!!
+
+Sentiment: 0
+Text:Find it yet?
+
+Sentiment: 0
+Text:fine. I should be anyway. see you at the 4th quarter.
+
+Sentiment: 0
+Text:fingers crossed another enjoyable night cause of someoneeeee
+
+Sentiment: 0
+Text:- finishing up my midterm project for web publishing class &amp; waiting to go over zachs house.
+
+Sentiment: 0
+Text:" Finn fell of the balcony
+
+Sentiment: 0
+Text:-- First uni exam tomorrow
+
+Sentiment: 0
+Text:Fix my puter... Its taking a dump.
+
+Sentiment: 0
+Text:flordia- and @stellarkartband- where do u send in the pictures of the shrits? saw ur update on facebook
+
+Sentiment: 0
+Text:Flower died.
+
+Sentiment: 0
+Text:follow me
+
+Sentiment: 0
+Text:Follow me on Twitter!  http://bit.ly/P1I1h
+
+Sentiment: 0
+Text:food poisoning ?
+
+Sentiment: 0
+Text:for once cant i be number one
+
+Sentiment: 0
+Text:FORÃ‡A MEADD ! http://meadd.com/adrianoshevchenko/15425876
+
+Sentiment: 0
+Text:" forgot about my spanish essay. hopefully
+
+Sentiment: 0
+Text:Found a place to buy Secret Agent Sam. Now where to get it for free...
+
+Sentiment: 0
+Text:Free Movie was sold out...wtf?
+
+Sentiment: 0
+Text:- FRIDAY! i've caught a cold. How rubbish is that? At least i've got the whole weekend to spend in bed.
+
+Sentiment: 0
+Text:" Friday!!! Plus
+
+Sentiment: 0
+Text:Friend's emailed me a list of signs you're middle aged woman and I relate to 90%... incl. forgetfulness ...so I am now becoming my Mum
+
+Sentiment: 0
+Text:" from NCAVP's report: 2008
+
+Sentiment: 0
+Text:from seeing all my koreans buisnesses failing.
+
+Sentiment: 0
+Text:fuck it
+
+Sentiment: 0
+Text:fuck overtime!
+
+Sentiment: 0
+Text:" fuck that
+
+Sentiment: 0
+Text:fuckin ugh...
+
+Sentiment: 0
+Text:fxcking tired and sooo cold
+
+Sentiment: 0
+Text:gdocs letting me down. Not saving and not sharing. One more go.
+
+Sentiment: 0
+Text:get better friend. It sucks not to be able to taste. So sorry
+
+Sentiment: 0
+Text:Getting close to 2K followers!  I feel a chocolate party coming on! You are all invited
+
+Sentiment: 0
+Text:- Getting 'er done.. 16 hrs of work behind me. Not sure how many left in front
+
+Sentiment: 0
+Text:Getting ideas for my room revamp!
+
+Sentiment: 0
+Text:" getting ready for school. after i print out this song
+
+Sentiment: 0
+Text:getting ready for work ....  def should have stayed in last night
+
+Sentiment: 0
+Text:- getting ready to go on a date
+
+Sentiment: 1
+Text:gettn meds for my baby. he's got a stuffy nose and now a cough. his 1st time getting sick
+
+Sentiment: 0
+Text:- Gig was awesome! Am exahausted and so dont want to revise  Boo Hoo!
+
+Sentiment: 0
+Text:girls are so mean now a days damn
+
+Sentiment: 0
+Text:Git version of Gnome Shell broke Compiz. Still get nice clutter effects though.
+
+Sentiment: 0
+Text:glad I could help...or not depending on how much $ you spend ;)
+
+Sentiment: 0
+Text:glade you liked it i'll be over in a few minutes
+
+Sentiment: 0
+Text:i want to shop!! - http://tweet.sg
+
+Sentiment: 0
+Text:" I want to take pieces of the past and bring them to the present.Things Would Change.A life without you
+
+Sentiment: 0
+Text:I wanted Taj to win
+
+Sentiment: 0
+Text:I wanted the cavs to win it all! Defense wins the game Cavs.... I don't like loosing and I know this is alot of pressure on Bron.
+
+Sentiment: 0
+Text:i wasted more than a roll of film.
+
+Sentiment: 0
+Text:i will txt you when i get back from oc. Maybe we can do something. Ill make you feel better. . Na mean. Lol jk
+
+Sentiment: 0
+Text:i wish he knew how much i miss him...
+
+Sentiment: 0
+Text:I wish I could play guitar..... my guitar I got a few christmas`s ago is collecting dust! I need to learn! haha
+
+Sentiment: 0
+Text:" I wish I lived far far away
+
+Sentiment: 0
+Text:i wish i was famous.
+
+Sentiment: 0
+Text:I wish I were there.
+
+Sentiment: 0
+Text:I WISH IT WAS SUMMER TIME.....
+
+Sentiment: 0
+Text:I wish Mark was here
+
+Sentiment: 0
+Text:i wish paramore won for best song... boo
+
+Sentiment: 0
+Text:I wish this was easier!!
+
+Sentiment: 0
+Text:i woke up! Lol ~
+
+Sentiment: 0
+Text:"-- I won't feel guilty and like I should be revising stuff after today
+
+Sentiment: 0
+Text:" I work the next 4 days
+
+Sentiment: 0
+Text:i... have to start... work... tomorrow......................
+
+Sentiment: 1
+Text:icant stop smiling! Especially thinking of the time we ran to the train...
+
+Sentiment: 0
+Text:idk why i 'm so sad  i need to somone right now
+
+Sentiment: 0
+Text:- Ii cant beleivee the ppl that imm losinng
+
+Sentiment: 0
+Text:i'll be leaving home tomorrow.
+
+Sentiment: 1
+Text:ill deff be going up early on Tuesday will you? What time at?
+
+Sentiment: 0
+Text:I'll get home like 5pm today it will be a long day no hangover just my body is drain out n my legs hurt ;-( I'm dehrydrated
+
+Sentiment: 0
+Text:I'll get my son Tommi to visit at me tomorrow from Oulu. So nice )
+
+Sentiment: 0
+Text:I'm a sad panda today. I want a slurpee damnit!
+
+Sentiment: 0
+Text:" I'm about to turn down a great job offer in LA. Raise
+
+Sentiment: 0
+Text:im almost done with this portrait. woo. hmm.. maybe i should draw andrew bisante with my new pastels !!
+
+Sentiment: 0
+Text:I'm back online!
+
+Sentiment: 0
+Text:" im back
+
+Sentiment: 0
+Text:im being attacked by a moth!!  its scary stuff  haha!
+
+Sentiment: 0
+Text:I'm being confused..
+
+Sentiment: 1
+Text:i'm board :b and happy for tomorrow
+
+Sentiment: 0
+Text:I'm Bored... Bored....Bored Again And Developing A Headache And I Want A Piece Of Carrot Cake mmm
+
+Sentiment: 0
+Text:I'm boreddddd...rain rain go away.
+
+Sentiment: 0
+Text:" im buzzed and followed friends to punk ass bar
+
+Sentiment: 0
+Text:" Im crushed
+
+Sentiment: 0
+Text:I'm depressed about the cavs loss now I'm checking out the Da Vinci Code for the first time!
+
+Sentiment: 0
+Text:Im dying of thirst and I wish I was in a large body of water somewhere in Hawaii!! Anything with clear water actually!!!
+
+Sentiment: 0
+Text:I'm exactly where I want to be. ))
+
+Sentiment: 0
+Text:" I'm exhausted. Having pasta soon
+
+Sentiment: 0
+Text:im followin demi she rocks
+
+Sentiment: 0
+Text:I'm freaking out    ~ I got something to admit ~
+
+Sentiment: 0
+Text:im fukin bored im goin on gs 4 a bit
+
+Sentiment: 0
+Text:finally awake!!!!
+
+Sentiment: 0
+Text:- finally catching the new episode of college hill.
+
+Sentiment: 0
+Text:finally finished. now i can sleep peacefully!
+
